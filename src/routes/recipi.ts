@@ -8,4 +8,8 @@ export const recipeRoutes = (app: any) => {
     app.get('/api/recipe/:id', (req: Request, res: Response) => {
         return recipeController.getRecipe(req, res);
     });
+
+    app.get('/api/recipes/category/:id', (req: Request, res: Response) => {
+        return recipeController.getAllRecipesCategoryId(req, res);
+    });
 }

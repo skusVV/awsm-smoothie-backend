@@ -30,6 +30,12 @@ export interface RecipeAttrs {
     timeToRead: number;
     date: string;
     categories: string[];
+    images: string[];
+    overviewDescription: string;
+    protein: number;
+    fats: number;
+    carbs: number;
+    calories: number;
 }
 
 interface RecipeDoc extends mongoose.Document{
@@ -46,6 +52,12 @@ interface RecipeDoc extends mongoose.Document{
     timeToRead: number;
     date: string;
     categories: string[];
+    images: string[];
+    overviewDescription: string;
+    protein: number;
+    fats: number;
+    carbs: number;
+    calories: number;
 }
 
 interface RecipeModel extends mongoose.Model<RecipeDoc> {
@@ -87,6 +99,12 @@ const recipeSchema = new mongoose.Schema<RecipeDoc>({
     timeToRead: Number,
     date: String,
     categories: [String],
+    images: [String],
+    overviewDescription: String,
+    protein: Number,
+    fats: Number,
+    carbs: Number,
+    calories: Number,
 }, {
     toJSON: {
         transform(doc, ret) {

@@ -11,7 +11,7 @@ export class RecipeService {
     }
 
     async getRecipesByCategoryId(category_id: string, projection = {}) {
-        return Recipe.find({ category_id }, projection).lean();
+        return Recipe.find({ categories: { $elemMatch: { $eq: category_id } } }, projection).lean();
     }
 
     async getRecipesCountByCategoryId(category_id: string) {

@@ -1,10 +1,8 @@
 import { Response, Request} from 'express';
 import { RecipeService } from '../services/recipe.service';
-import { AuthorService } from '../services/author.service';
 import { CategoryService } from '../services/category.service';
 
 const recipeService = new RecipeService();
-const authorService = new AuthorService();
 const categoryService = new CategoryService();
 
 export class CategoryController {
