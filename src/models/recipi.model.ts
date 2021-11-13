@@ -16,7 +16,7 @@ interface RecipeIngredient {
     imgUrl: string;
 }
 
-interface RecipeAttrs {
+export interface RecipeAttrs {
     name: string;
     title: string;
     videoUrl: string;
@@ -26,6 +26,10 @@ interface RecipeAttrs {
     labels: string;
     lottie: string;
     ingredients: RecipeIngredient[];
+    author_id: string;
+    timeToRead: number;
+    date: string;
+    categories: string[];
 }
 
 interface RecipeDoc extends mongoose.Document{
@@ -38,6 +42,10 @@ interface RecipeDoc extends mongoose.Document{
     labels: string[];
     lottie: string;
     ingredients: RecipeIngredient[];
+    author_id: string;
+    timeToRead: number;
+    date: string;
+    categories: string[];
 }
 
 interface RecipeModel extends mongoose.Model<RecipeDoc> {
@@ -74,7 +82,11 @@ const recipeSchema = new mongoose.Schema<RecipeDoc>({
         title: String,
         info: String,
         imgUrl: String,
-    }]
+    }],
+    author_id: String,
+    timeToRead: Number,
+    date: String,
+    categories: [String],
 }, {
     toJSON: {
         transform(doc, ret) {

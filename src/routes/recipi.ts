@@ -1,11 +1,11 @@
 import { Response, Request} from 'express';
-import { RecipiController } from '../controller/recipi';
+import { RecipeController } from '../controller/recipi';
 
-const recipiController = new RecipiController();
+const recipeController = new RecipeController();
 
 
-export const recipiRoutes = (app: any) => {
+export const recipeRoutes = (app: any) => {
     app.get('/api/recipe/:id', (req: Request, res: Response) => {
-        return recipiController.getRecipe(req, res);
+        return recipeController.getRecipe(req, res);
     });
 }
