@@ -17,4 +17,12 @@ export class RecipeService {
     async getRecipesCountByCategoryId(category_id: string) {
         return Recipe.find({ categories: { $elemMatch: { $eq: category_id } } }).count();
     }
+
+    async getRecipesByText(text: string) {
+        return Recipe.find( { $text: { $search: text } } ).lean();
+    }
+
+    async getRecipesByLabel(label_id: string) {
+        return Recipe.find({ labels: { $elemMatch: { $eq: label_id } } }).lean();
+    }
 }

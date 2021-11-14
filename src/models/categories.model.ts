@@ -14,6 +14,7 @@ interface CategoryAttrs {
     items: CategoryItem[];
     category_banner_description: string;
     category_banner_img: string;
+    preview_img: string;
 }
 
 interface CategoryDoc extends mongoose.Document{
@@ -25,6 +26,7 @@ interface CategoryDoc extends mongoose.Document{
     items: CategoryItem[];
     category_banner_description: string;
     category_banner_img: string;
+    preview_img: string;
 }
 
 interface CategoryModel extends mongoose.Model<CategoryDoc> {
@@ -47,6 +49,7 @@ const categorySchema = new mongoose.Schema<CategoryDoc>({
     }],
     category_banner_description: String,
     category_banner_img: String,
+    preview_img: String,
 }, {
     toJSON: {
         transform(doc, ret) {

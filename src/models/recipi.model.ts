@@ -119,7 +119,7 @@ const recipeSchema = new mongoose.Schema<RecipeDoc>({
 recipeSchema.statics.build = (attrs: RecipeAttrs) => {
     return new Recipe(attrs);
 }
-
+recipeSchema.index({ title: 'text', overviewDescription : 'text'  });
 const Recipe = mongoose.model<RecipeDoc, RecipeModel>('recipes', recipeSchema);
 
 export { Recipe };

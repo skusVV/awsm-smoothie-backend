@@ -23,4 +23,16 @@ export class CategoryController {
             bannerDescription
         });
     }
+
+    async getCategories(req: Request, res: Response): Promise<any> {
+        const query: any = req.query;
+
+        const categories = await categoryService.getRandomCategories(Number(query.limit));
+
+        if(!categories || !categories.length) {
+            return res.status(404).send('Categories not found');
+        }
+
+        return res.send(categories);
+    }
 }
