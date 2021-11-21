@@ -9,11 +9,28 @@ export class SearchController {
 
     async search(req: Request, res: Response): Promise<any> {
         const query: any = req.query;
+        const labels = await labelService.getAllLabels();
 
         if (query['q']) { // text search
             const textSearchResponse = await recipeService.getRecipesByText(query['q']);
 
-            return res.send(textSearchResponse);
+            return res.send(textSearchResponse.map(item => {
+                return {
+                    ...item,
+                    labels: this.getLabels(item.labels, labels)
+                }
+            }));
+        }
+
+        if (query['b']) { // key benefints search
+            const textSearchResponse = await recipeService.getRecipesByKeyBenefit(query['b']);
+
+            return res.send(textSearchResponse.map(item => {
+                return {
+                    ...item,
+                    labels: this.getLabels(item.labels, labels)
+                }
+            }));
         }
 
         if (query['l']) { // search by labels
@@ -24,7 +41,6 @@ export class SearchController {
             }
 
             const labelSearchResponse = await recipeService.getRecipesByLabel(label.label_id);
-            const labels = await labelService.getAllLabels();
 
             return res.send(labelSearchResponse.map(item => {
                 return {
@@ -45,6 +61,7 @@ export class SearchController {
         return recipeLabels
             .map(recipeLabel => {
                     const currentLabel = labels.find(label => label.label_id === recipeLabel);
+                    console.log('currentLabel', currentLabel)
                     return currentLabel && currentLabel.text? currentLabel.text : '';
                 }
             )

@@ -16,6 +16,8 @@ interface RecipeIngredient {
     imgUrl: string;
 }
 
+type KeyBenefit = 'immunity' | 'muscle' | 'appearance' | 'weight' | 'energy';
+
 export interface RecipeAttrs {
     name: string;
     title: string;
@@ -36,6 +38,13 @@ export interface RecipeAttrs {
     fats: number;
     carbs: number;
     calories: number;
+    meal_replacement: boolean;
+    nut_free: boolean;
+    caffeine: boolean;
+    gluten_free: boolean;
+    soy_free: boolean;
+    no_sugar: boolean;
+    key_benefit: KeyBenefit;
 }
 
 interface RecipeDoc extends mongoose.Document{
@@ -58,6 +67,13 @@ interface RecipeDoc extends mongoose.Document{
     fats: number;
     carbs: number;
     calories: number;
+    meal_replacement: boolean;
+    nut_free: boolean;
+    caffeine: boolean;
+    gluten_free: boolean;
+    soy_free: boolean;
+    no_sugar: boolean;
+    key_benefit: KeyBenefit;
 }
 
 interface RecipeModel extends mongoose.Model<RecipeDoc> {
@@ -105,6 +121,13 @@ const recipeSchema = new mongoose.Schema<RecipeDoc>({
     fats: Number,
     carbs: Number,
     calories: Number,
+    meal_replacement: Boolean,
+    nut_free: Boolean,
+    caffeine: Boolean,
+    gluten_free: Boolean,
+    soy_free: Boolean,
+    no_sugar: Boolean,
+    key_benefit: String,
 }, {
     toJSON: {
         transform(doc, ret) {

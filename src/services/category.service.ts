@@ -7,9 +7,8 @@ export class CategoryService {
     }
 
     async getRandomCategories(limit: number) {
-        // return Category.findOne({ }, projection).lean();
         return Category.aggregate([
             { $sample: { size: limit } }
-        ])
+        ]).exec();
     }
 }

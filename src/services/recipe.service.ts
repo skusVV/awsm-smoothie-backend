@@ -22,6 +22,10 @@ export class RecipeService {
         return Recipe.find( { $text: { $search: text } } ).lean();
     }
 
+    async getRecipesByKeyBenefit(b: string) {
+        return Recipe.find({ key_benefit: b }).lean();
+    }
+
     async getRecipesByLabel(label_id: string) {
         return Recipe.find({ labels: { $elemMatch: { $eq: label_id } } }).lean();
     }
