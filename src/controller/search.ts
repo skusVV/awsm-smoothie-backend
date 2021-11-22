@@ -61,7 +61,6 @@ export class SearchController {
         return recipeLabels
             .map(recipeLabel => {
                     const currentLabel = labels.find(label => label.label_id === recipeLabel);
-                    console.log('currentLabel', currentLabel)
                     return currentLabel && currentLabel.text? currentLabel.text : '';
                 }
             )
