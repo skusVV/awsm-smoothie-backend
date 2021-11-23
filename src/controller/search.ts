@@ -42,7 +42,7 @@ export class SearchController {
 
             const labelSearchResponse = await recipeService.getRecipesByLabel(label.label_id);
 
-            return res.send(labelSearchResponse.map(item => {
+            return res.send(labelSearchResponse.map((item: any) => {
                 return {
                     ...item,
                     labels: this.getLabels(item.labels, labels)
