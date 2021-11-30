@@ -14,6 +14,7 @@ interface RecipeIngredient {
     title: string;
     info: string;
     imgUrl: string;
+    ingredient_id: string;
 }
 
 type KeyBenefit = 'immunity' | 'muscle' | 'appearance' | 'weight' | 'energy';
