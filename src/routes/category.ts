@@ -11,4 +11,8 @@ export const categoryRoutes = (app: any) => {
     app.get('/api/categories', (req: Request, res: Response) => {
         return categoryController.getCategories(req, res);
     });
+
+    app.get('/api/categories', (req: Request, res: Response) => {
+        return categoryController.getCategories(req, res);
+    });
 }

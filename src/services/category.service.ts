@@ -10,6 +10,10 @@ export class CategoryService {
         return Category.find({ }, {category_id: 1, _id: 0}).lean();
     }
 
+    async getCategoriesByIds(ids: string[]) {
+        return Category.find({ category_id: { $in: ids} }, { _id: 0}).lean();
+    }
+
     async getRandomCategories(limit: number) {
         return Category.aggregate([
             { $sample: { size: limit } }

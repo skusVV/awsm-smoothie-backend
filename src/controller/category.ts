@@ -27,12 +27,22 @@ export class CategoryController {
     async getCategories(req: Request, res: Response): Promise<any> {
         const query: any = req.query;
 
-        const categories = await categoryService.getRandomCategories(Number(query.limit));
+        const categories = await categoryService.getCategoriesByIds(
+            this.getIdsBySection(query.section)
+        );
 
         if(!categories || !categories.length) {
             return res.status(404).send('Categories not found');
         }
 
         return res.send(categories);
+    }
+
+    private getIdsBySection(section: string): string[] {
+        if (section === '1') {
+            return ['weight-gain-shakes', 'weight-loss-shakes','plant-based-shakes', 'casein-protein-shakes']
+        }
+
+        return ['fat-burning-smoothies', 'meal-replacement-smoothies', 'anti-inflammatory-smoothies', 'superfood-smoothies']
     }
 }
