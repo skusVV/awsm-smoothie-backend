@@ -27,9 +27,20 @@ export class CategoryController {
     async getCategories(req: Request, res: Response): Promise<any> {
         const query: any = req.query;
 
-        const categories = await categoryService.getCategoriesByIds(
-            this.getIdsBySection(query.section)
-        );
+        let categories = []
+
+        if (query.section) {
+            categories = await categoryService.getCategoriesByIds(
+                this.getIdsBySection(query.section)
+            );
+        }
+
+        if (query.limit) {
+            categories = await categoryService.getRandomCategories(
+                Number(query.limit)
+            );
+        }
+
 
         if(!categories || !categories.length) {
             return res.status(404).send('Categories not found');
@@ -40,9 +51,9 @@ export class CategoryController {
 
     private getIdsBySection(section: string): string[] {
         if (section === '1') {
-            return ['weight-gain-shakes', 'weight-loss-shakes','plant-based-shakes', 'casein-protein-shakes']
+            return ['weight-gain-shakes', 'weight-loss-shakes','plant-based-protein-shake', 'casein-protein-shakes']
         }
 
-        return ['fat-burning-smoothies', 'meal-replacement-smoothies', 'anti-inflammatory-smoothies', 'superfood-smoothies']
+        return ['fat-burning-smoothie', 'meal-replacement-shakes', 'anti-inflammatory-smoothies', 'superfood-smoothies']
     }
 }
