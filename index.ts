@@ -6,6 +6,7 @@ import { subscribeRoutes } from './src/routes/subscribe';
 import { authorRoutes } from './src/routes/auhtor';
 import { categoryRoutes } from './src/routes/category';
 import { searchRoutes } from './src/routes/search';
+import { dynamicRoutes } from './src/routes/dynamic-routes'
 import * as bodyParser from 'body-parser';
 
 const app = express();
@@ -19,6 +20,7 @@ subscribeRoutes(app);
 authorRoutes(app);
 categoryRoutes(app);
 searchRoutes(app);
+dynamicRoutes(app);
 
 const init = async() => {
     try {

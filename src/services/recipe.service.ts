@@ -1,4 +1,5 @@
 import { Recipe } from '../models/recipi.model';
+import {Category} from "../models/categories.model";
 
 export class RecipeService {
 
@@ -28,5 +29,9 @@ export class RecipeService {
 
     async getRecipesByLabel(label_id: any): Promise<any> {
         return Recipe.find({ labels: { $elemMatch: { $eq: label_id } } }).lean();
+    }
+
+    async getAllRecipesName() {
+        return Recipe.find({ }, {name: 1, _id: 0}).lean();
     }
 }

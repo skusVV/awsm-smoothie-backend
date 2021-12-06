@@ -6,6 +6,10 @@ export class CategoryService {
         return Category.findOne({ category_id }, projection).lean();
     }
 
+    async getAllCategoriesName() {
+        return Category.find({ }, {category_id: 1, _id: 0}).lean();
+    }
+
     async getRandomCategories(limit: number) {
         return Category.aggregate([
             { $sample: { size: limit } }

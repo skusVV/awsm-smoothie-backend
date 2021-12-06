@@ -6,6 +6,7 @@ const recipeController = new RecipeController();
 
 export const recipeRoutes = (app: any) => {
     app.get('/api/recipe/:id', (req: Request, res: Response) => {
+        console.log("OLOLOLOL")
         return recipeController.getRecipe(req, res);
     });
 
