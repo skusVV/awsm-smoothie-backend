@@ -24,11 +24,11 @@ export interface RecipeAttrs {
     name: string;
     title: string;
     videoUrl: string;
-    breadCrumbs: RecipeBreadCrumb[];
+    // breadCrumbs: RecipeBreadCrumb[];
     badges: RecipeBadge[];
     overviewParagraphs: string[];
     labels: string;
-    lottie: string;
+    // lottie: string;
     ingredients: RecipeIngredient[];
     author_id: string;
     timeToRead: number;
@@ -54,11 +54,11 @@ interface RecipeDoc extends mongoose.Document{
     name: string;
     title: string;
     videoUrl: string;
-    breadCrumbs: RecipeBreadCrumb[];
+    // breadCrumbs: RecipeBreadCrumb[];
     badges: RecipeBadge[];
     overviewParagraphs: string[];
     labels: string[];
-    lottie: string;
+    // lottie: string;
     ingredients: RecipeIngredient[];
     author_id: string;
     timeToRead: number;
@@ -98,10 +98,10 @@ const recipeSchema = new mongoose.Schema<RecipeDoc>({
         type: String,
         required: true
     },
-    breadCrumbs: [{
-        link: String,
-        title: String
-    }],
+    // breadCrumbs: [{
+    //     link: String,
+    //     title: String
+    // }],
     badges: [{
         type: String,
         title: String
@@ -109,7 +109,7 @@ const recipeSchema = new mongoose.Schema<RecipeDoc>({
     labels: [
         String
     ],
-    lottie: String,
+    // lottie: String,
     ingredients: [{
         title: String,
         info: String,
