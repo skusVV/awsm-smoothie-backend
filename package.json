@@ -4,7 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.ts "
+    "start": "nodemon index.ts",
+    "dump": "npm run dump:recipes && npm run dump:labels && npm run dump:ingridients && npm run dump:categories && npm run dump:authors",
+    "dump:recipes": "mongoexport --collection=recipes --db=smoothie --out=./dump/recipes.json",
+    "dump:labels": "mongoexport --collection=labels --db=smoothie --out=./dump/labels.json",
+    "dump:ingridients": "mongoexport --collection=ingridients --db=smoothie --out=./dump/ingridients.json",
+    "dump:categories": "mongoexport --collection=categories --db=smoothie --out=./dump/categories.json",
+    "dump:authors": "mongoexport --collection=authors --db=smoothie --out=./dump/authors.json",
+    "seed": "npm run seed:recipes && npm run seed:labels && npm run seed:ingridients && npm run seed:categories && npm run seed:authors",
+    "seed:recipes": "mongoimport --db smoothie --collection recipes --file ./dump/recipes.json --jsonArray",
+    "seed:labels": "mongoimport --db smoothie --collection labels --file ./dump/labels.json --jsonArray",
+    "seed:ingridients": "mongoimport --db smoothie --collection ingridients --file ./dump/ingridients.json --jsonArray",
+    "seed:categories": "mongoimport --db smoothie --collection categories --file ./dump/categories.json --jsonArray",
+    "seed:authors": "mongoimport --db smoothie --collection recipes --file ./dump/authors.json --jsonArray"
   },
   "keywords": [],
   "author": "",
