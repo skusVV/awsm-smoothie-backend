@@ -53,7 +53,6 @@ export class CategoryController {
     async getMainCategoriesInfo(req: Request, res: Response): Promise<any> {
         const result = await Promise.all(mainCategories.map(async (category: any) => {
             const count = await categoryService.getCategoryRecipeCount(category.category_id);
-            console.log('count', count, category.category_id)
             return {...category, recipiesCount: count, link: `/${category.category_id}`};
         }));
 
