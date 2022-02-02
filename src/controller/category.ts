@@ -1,6 +1,7 @@
 import { Response, Request} from 'express';
 import { RecipeService } from '../services/recipe.service';
 import { CategoryService } from '../services/category.service';
+import { mainCategories } from '../constants/main-categories';
 
 const recipeService = new RecipeService();
 const categoryService = new CategoryService();
@@ -47,6 +48,16 @@ export class CategoryController {
         }
 
         return res.send(categories);
+    }
+
+    async getMainCategoriesInfo(req: Request, res: Response): Promise<any> {
+        const result = await Promise.all(mainCategories.map(async (category: any) => {
+            const count = await categoryService.getCategoryRecipeCount(category.category_id);
+            console.log('count', count, category.category_id)
+            return {...category, recipiesCount: count, link: `/${category.category_id}`};
+        }));
+
+        return res.send(result);
     }
 
     private getIdsBySection(section: string): string[] {

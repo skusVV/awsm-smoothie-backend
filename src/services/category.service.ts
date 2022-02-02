@@ -1,4 +1,5 @@
 import { Category } from '../models/categories.model';
+import { Recipe } from '../models/recipi.model';
 
 export class CategoryService {
 
@@ -18,5 +19,9 @@ export class CategoryService {
         return Category.aggregate([
             { $sample: { size: limit } }
         ]).exec();
+    }
+
+    async getCategoryRecipeCount(categoryId: string) {
+        return Recipe.find( { categories: { $elemMatch: { $eq: categoryId} } }).count();
     }
 }

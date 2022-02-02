@@ -12,7 +12,7 @@ export const categoryRoutes = (app: any) => {
         return categoryController.getCategories(req, res);
     });
 
-    app.get('/api/categories', (req: Request, res: Response) => {
-        return categoryController.getCategories(req, res);
+    app.get('/api/main/categories', (req: Request, res: Response) => {
+        return categoryController.getMainCategoriesInfo(req, res);
     });
 }
