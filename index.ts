@@ -8,8 +8,10 @@ import { categoryRoutes } from './src/routes/category';
 import { searchRoutes } from './src/routes/search';
 import { dynamicRoutes } from './src/routes/dynamic-routes'
 import * as bodyParser from 'body-parser';
+const cors = require('cors');
 
 const app = express();
+app.use(cors()); // TODO remove me
 const PORT = 8000;
 const MONGO_URI = 'mongodb://localhost:27017/smoothie';
 
