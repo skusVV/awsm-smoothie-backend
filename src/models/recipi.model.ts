@@ -19,6 +19,7 @@ interface RecipeIngredient {
 
 type KeyBenefit = 'immunity' | 'muscle' | 'appearance' | 'weight' | 'energy';
 type ProteinType = 'Why Protein' | 'Casein Protein' | 'Pea Protein' | 'Rice Protein' | 'Oat Protein' | 'Plant Based';
+type DietType = 'Keto' | 'Plant Based' | 'Vegan' | 'Whole30' | 'Paleo';
 
 export interface RecipeAttrs {
     name: string;
@@ -48,6 +49,7 @@ export interface RecipeAttrs {
     no_sugar: boolean;
     key_benefit: KeyBenefit;
     protein_type: ProteinType;
+    diet_type: DietType;
 }
 
 interface RecipeDoc extends mongoose.Document{
@@ -78,6 +80,7 @@ interface RecipeDoc extends mongoose.Document{
     no_sugar: boolean;
     key_benefit: KeyBenefit;
     protein_type: ProteinType;
+    diet_type: DietType;
 }
 
 interface RecipeModel extends mongoose.Model<RecipeDoc> {
@@ -133,6 +136,7 @@ const recipeSchema = new mongoose.Schema<RecipeDoc>({
     no_sugar: Boolean,
     key_benefit: String,
     protein_type: String,
+    diet_type: String
 }, {
     toJSON: {
         transform(doc, ret) {
