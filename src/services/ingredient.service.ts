@@ -10,4 +10,7 @@ export class IngredientService {
         return Ingredient.find( {}).lean();
     }
 
+    async getAllIngredientNames() {
+        return Ingredient.find({}, { name: 1 }).lean();
+    }
 }
