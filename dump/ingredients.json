@@ -5,13 +5,13 @@
 {"_id":{"$oid":"61a62c5793b3cbc919972898"},"ingredient_id":"ice-cubes","name":"ICE CUBES","img":"/assets/ingredients/ice_cubes.png"}
 {"_id":{"$oid":"61a6742993b3cbc919972f31"},"ingredient_id":"banana","name":"BANANA","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Banana.png"}
 {"_id":{"$oid":"61a67d0e93b3cbc919973139"},"ingredient_id":"strawberries","name":"strawberries","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Strawberries.png"}
-{"_id":{"$oid":"61a67d2193b3cbc91997313f"},"ingredient_id":"raspberries","name":"raspberries","img":"https://www.freshpoint.com/wp-content/uploads/raspberries3-e1576523550874.jpg"}
+{"_id":{"$oid":"61a67d2193b3cbc91997313f"},"ingredient_id":"raspberries","name":"raspberries","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Raspberry.png"}
 {"_id":{"$oid":"61a67d3593b3cbc919973147"},"ingredient_id":"blueberries","name":"blueberries","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Blueberries.png"}
 {"_id":{"$oid":"61a67d4b93b3cbc919973151"},"ingredient_id":"blackberries","name":"blackberries","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Blackberries.png"}
 {"_id":{"$oid":"61a67d8793b3cbc919973161"},"ingredient_id":"fat-free-vanilla-frozen-yogurt","name":"fat free vanilla frozen yogurt","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/VanillaFrozenYogurt.png"}
-{"_id":{"$oid":"61a67da393b3cbc91997316a"},"ingredient_id":"cranberry-juice","name":"cranberry juice","img":"https://cdn-prod.medicalnewstoday.com/content/images/articles/322/322731/cranberry-juice-in-a-glass.jpg"}
+{"_id":{"$oid":"61a67da393b3cbc91997316a"},"ingredient_id":"cranberry-juice","name":"cranberry juice","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/cranberries.png"}
 {"_id":{"$oid":"61a67dc093b3cbc919973175"},"ingredient_id":"peanut-butter","name":"peanut butter","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/PeanutButter.png"}
-{"_id":{"$oid":"61a67e0e93b3cbc919973187"},"ingredient_id":"soy-milk","name":"soy milk","img":"https://assets.epicurious.com/photos/5fd9170f12a4c40b57e70f4b/1:1/w_2950,h_2950,c_limit/SoyMilk_RECIPE_IG_121020_6321_VOG_test.jpg"}
+{"_id":{"$oid":"61a67e0e93b3cbc919973187"},"ingredient_id":"soy-milk","name":"soy milk","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/SoyMilk.png"}
 {"_id":{"$oid":"61a67e4693b3cbc91997319f"},"ingredient_id":"coconut","name":"coconut","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Coconut.png"}
 {"_id":{"$oid":"61a67e5d93b3cbc9199731a7"},"ingredient_id":"apple-cider","name":"apple cider","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/AppleCider.png"}
 {"_id":{"$oid":"61a776c193b3cbc919973478"},"ingredient_id":"almonds","name":"almonds","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Almonds.png"}
@@ -21,7 +21,7 @@
 {"_id":{"$oid":"61a77d3e93b3cbc919973589"},"ingredient_id":"kale","name":"kale","img":"https://thumbs.dreamstime.com/z/kale-7510418.jpg"}
 {"_id":{"$oid":"61a77d7a93b3cbc9199735a3"},"ingredient_id":"coconut-water","name":"coconut water","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Coconut-water.png"}
 {"_id":{"$oid":"61a7b59993b3cbc91997364c"},"ingredient_id":"pecans","name":"pecans","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Pecan.png"}
-{"_id":{"$oid":"61a7b5ef93b3cbc919973673"},"ingredient_id":"skim-milk","name":"skim milk","img":"https://www.ukrgate.com/eng/wp-content/uploads/2021/01/The-Golden-Benefits-of-Skim-Milk.jpg"}
+{"_id":{"$oid":"61a7b5ef93b3cbc919973673"},"ingredient_id":"skim-milk","name":"skim milk","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/SkimMilk.png"}
 {"_id":{"$oid":"61a7b64c93b3cbc91997368f"},"ingredient_id":"touch-of-honey","name":"touch of honey","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Honey.png"}
 {"_id":{"$oid":"61a7b9f893b3cbc919973778"},"ingredient_id":"fresh-lemonade","name":"fresh lemonade","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Lemonade.png"}
 {"_id":{"$oid":"61a7bade93b3cbc9199737bf"},"ingredient_id":"peanut-butter","name":"Peanut butter","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/PeanutButter.png"}
