@@ -50,6 +50,11 @@ const categorySchema = new mongoose.Schema<CategoryDoc>({
     category_banner_description: String,
     category_banner_img: String,
     preview_img: String,
+    meta_data : {
+        title: String,
+        description: String,
+        keyword_group: String
+    }
 }, {
     toJSON: {
         transform(doc, ret) {
