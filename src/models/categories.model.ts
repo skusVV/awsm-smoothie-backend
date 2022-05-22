@@ -53,7 +53,6 @@ const categorySchema = new mongoose.Schema<CategoryDoc>({
     meta_data : {
         title: String,
         description: String,
-        page_url: String,
         keyword_group: String
     }
 }, {
