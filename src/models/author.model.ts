@@ -15,7 +15,15 @@ interface AuthorDoc extends mongoose.Document{
     imageUrl: string;
     subName: string;
     description: string;
-    recipes: string[]
+    recipes: string[];
+    social: {
+        instagram?: string;
+        tiktok?: string;
+    };
+    metaData: {
+        title: string;
+        description: string;
+    };
 }
 
 interface AuthorModel extends mongoose.Model<AuthorDoc> {
@@ -38,7 +46,15 @@ const authorSchema = new mongoose.Schema<AuthorDoc>({
     description: String,
     recipes: [
         String
-    ]
+    ],
+    social: {
+        instagram: String,
+        tiktok: String
+    },
+    meta_data: {
+        title: String,
+        description: String
+    }
 }, {
     toJSON: {
         transform(doc, ret) {

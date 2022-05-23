@@ -26,6 +26,8 @@ export class AuthorController {
             name: author.name,
             recipes: mappedRecipies || [],
             subName: author.subName,
+            social: author.social,
+            metaData: author.metaData
         });
     }
 }
