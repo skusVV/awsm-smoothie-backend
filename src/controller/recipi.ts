@@ -28,7 +28,7 @@ export class RecipeController {
             .getIngredientsByIds(recipe.ingredients.map(item => item.ingredient_id));
         recipe.ingredients = this.mergeIngredients(recipe.ingredients, originalIngredients);
         recipe.reviewer = reviewer?.name;
-        console.log(recipe)
+
         return res.send({
             ...recipe,
             authorName: author?.name,
