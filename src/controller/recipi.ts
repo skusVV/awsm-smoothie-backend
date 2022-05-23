@@ -20,11 +20,14 @@ export class RecipeController {
         }
 
         const author = await authorService.getAuthorByName(recipe?.author_id, { name: 1, imageUrl: 1, author_id: 1 });
+        const reviewer = await authorService.getAuthorByName(recipe?.reviewer_id, { name: 1, imageUrl: 1, author_id: 1 });
+
         const labels = await labelService.getAllLabels();
         recipe.labels = this.getLabels(recipe.labels, labels);
         const originalIngredients = await ingredientService
             .getIngredientsByIds(recipe.ingredients.map(item => item.ingredient_id));
         recipe.ingredients = this.mergeIngredients(recipe.ingredients, originalIngredients);
+        recipe.reviewer = reviewer?.name;
 
         return res.send({
             ...recipe,

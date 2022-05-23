@@ -61,9 +61,9 @@ export class CategoryController {
 
     private getIdsBySection(section: string): string[] {
         if (section === '1') {
-            return ['weight-gain-shakes', 'weight-loss-shakes','plant-based-protein-shake', 'casein-protein-shakes']
+            return ['weight-gain-shakes', 'best-protein-shakes-for-weight-loss','plant-based-protein-shake', 'best-casein-protein']
         }
 
-        return ['fat-burning-smoothie', 'meal-replacement-shakes', 'anti-inflammatory-smoothies', 'superfood-smoothies']
+        return ['fat-burning-smoothie', 'meal-replacement-shakes', 'anti-inflammatory-smoothie', 'smoothie-superfoods']
     }
 }
