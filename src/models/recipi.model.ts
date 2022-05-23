@@ -81,6 +81,8 @@ interface RecipeDoc extends mongoose.Document{
     key_benefit: KeyBenefit;
     protein_type: ProteinType;
     diet_type: DietType;
+    reviewer_id: string;
+    reviewer?: string;
 }
 
 interface RecipeModel extends mongoose.Model<RecipeDoc> {
@@ -136,7 +138,8 @@ const recipeSchema = new mongoose.Schema<RecipeDoc>({
     no_sugar: Boolean,
     key_benefit: String,
     protein_type: String,
-    diet_type: String
+    diet_type: String,
+    reviewer_id: String
 }, {
     toJSON: {
         transform(doc, ret) {
