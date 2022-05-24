@@ -1,59 +1,59 @@
-{"_id":{"$oid":"61a62b7193b3cbc919972843"},"ingredient_id":"chai-tea","name":"CHAI TEA","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/almond_milk.png"}
-{"_id":{"$oid":"61a62bed93b3cbc919972874"},"ingredient_id":"ground-coffee","name":"GROUND COFFEE","img":"/assets/ingredients/ground_coffe.png"}
 {"_id":{"$oid":"61a62c0f93b3cbc91997287f"},"ingredient_id":"rolled-oats","name":"ROLLED OATS","img":"/assets/ingredients/rolled_oats.png"}
 {"_id":{"$oid":"61a62c2e93b3cbc91997288a"},"ingredient_id":"ground-cinnamon","name":"GROUND CINNAMON","img":"/assets/ingredients/ground_cinnamo.png"}
-{"_id":{"$oid":"61a62c5793b3cbc919972898"},"ingredient_id":"ice-cubes","name":"ICE CUBES","img":"/assets/ingredients/ice_cubes.png"}
-{"_id":{"$oid":"61a6742993b3cbc919972f31"},"ingredient_id":"banana","name":"BANANA","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Banana.png"}
-{"_id":{"$oid":"61a67d0e93b3cbc919973139"},"ingredient_id":"strawberries","name":"strawberries","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Strawberries.png"}
-{"_id":{"$oid":"61a67d2193b3cbc91997313f"},"ingredient_id":"raspberries","name":"raspberries","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Raspberry.png"}
-{"_id":{"$oid":"61a67d3593b3cbc919973147"},"ingredient_id":"blueberries","name":"blueberries","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Blueberries.png"}
-{"_id":{"$oid":"61a67d4b93b3cbc919973151"},"ingredient_id":"blackberries","name":"blackberries","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Blackberries.png"}
-{"_id":{"$oid":"61a67d8793b3cbc919973161"},"ingredient_id":"fat-free-vanilla-frozen-yogurt","name":"fat free vanilla frozen yogurt","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/VanillaFrozenYogurt.png"}
+{"_id":{"$oid":"61a62bed93b3cbc919972874"},"ingredient_id":"ground-coffee","name":"GROUND COFFEE","img":"/assets/ingredients/ground_coffe.png"}
+{"_id":{"$oid":"61a67e0e93b3cbc919973187"},"ingredient_id":"soy-milk","name":"soy milk","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/SoyMilk.png"}
 {"_id":{"$oid":"61a67da393b3cbc91997316a"},"ingredient_id":"cranberry-juice","name":"cranberry juice","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/cranberries.png"}
 {"_id":{"$oid":"61a67dc093b3cbc919973175"},"ingredient_id":"peanut-butter","name":"peanut butter","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/PeanutButter.png"}
-{"_id":{"$oid":"61a67e0e93b3cbc919973187"},"ingredient_id":"soy-milk","name":"soy milk","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/SoyMilk.png"}
-{"_id":{"$oid":"61a67e4693b3cbc91997319f"},"ingredient_id":"coconut","name":"coconut","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Coconut.png"}
 {"_id":{"$oid":"61a67e5d93b3cbc9199731a7"},"ingredient_id":"apple-cider","name":"apple cider","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/AppleCider.png"}
-{"_id":{"$oid":"61a776c193b3cbc919973478"},"ingredient_id":"almonds","name":"almonds","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Almonds.png"}
 {"_id":{"$oid":"61a7784c93b3cbc9199734f4"},"ingredient_id":"pineapple","name":"pineapple","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/pineapple.png"}
 {"_id":{"$oid":"61a778c193b3cbc919973515"},"ingredient_id":"pineapple-juice","name":"pineapple juice","img":"https://www.manjarokitchen.com/wp-content/uploads/rpress/2020/05/pineapple-juice.jpg"}
 {"_id":{"$oid":"61a77cfd93b3cbc919973570"},"ingredient_id":"spinach","name":"spinach","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Spinach.png"}
+{"_id":{"$oid":"61a62b7193b3cbc919972843"},"ingredient_id":"chai-tea","name":"CHAI TEA","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/almond_milk.png"}
 {"_id":{"$oid":"61a77d3e93b3cbc919973589"},"ingredient_id":"kale","name":"kale","img":"https://thumbs.dreamstime.com/z/kale-7510418.jpg"}
+{"_id":{"$oid":"61a776c193b3cbc919973478"},"ingredient_id":"almonds","name":"almonds","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Almonds.png"}
+{"_id":{"$oid":"61a67e4693b3cbc91997319f"},"ingredient_id":"coconut","name":"coconut","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Coconut.png"}
 {"_id":{"$oid":"61a77d7a93b3cbc9199735a3"},"ingredient_id":"coconut-water","name":"coconut water","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Coconut-water.png"}
 {"_id":{"$oid":"61a7b59993b3cbc91997364c"},"ingredient_id":"pecans","name":"pecans","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Pecan.png"}
 {"_id":{"$oid":"61a7b5ef93b3cbc919973673"},"ingredient_id":"skim-milk","name":"skim milk","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/SkimMilk.png"}
 {"_id":{"$oid":"61a7b64c93b3cbc91997368f"},"ingredient_id":"touch-of-honey","name":"touch of honey","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Honey.png"}
-{"_id":{"$oid":"61a7b9f893b3cbc919973778"},"ingredient_id":"fresh-lemonade","name":"fresh lemonade","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Lemonade.png"}
+{"_id":{"$oid":"61a6742993b3cbc919972f31"},"ingredient_id":"banana","name":"BANANA","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Banana.png"}
+{"_id":{"$oid":"61a67d4b93b3cbc919973151"},"ingredient_id":"blackberries","name":"blackberries","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Blackberries.png"}
+{"_id":{"$oid":"61a62c5793b3cbc919972898"},"ingredient_id":"ice-cubes","name":"ICE CUBES","img":"/assets/ingredients/ice_cubes.png"}
+{"_id":{"$oid":"61a67d0e93b3cbc919973139"},"ingredient_id":"strawberries","name":"strawberries","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Strawberries.png"}
 {"_id":{"$oid":"61a7bade93b3cbc9199737bf"},"ingredient_id":"peanut-butter","name":"Peanut butter","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/PeanutButter.png"}
-{"_id":{"$oid":"61a7bc1393b3cbc919973833"},"ingredient_id":"mango","name":"mango","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Mango.png"}
+{"_id":{"$oid":"61a67d3593b3cbc919973147"},"ingredient_id":"blueberries","name":"blueberries","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Blueberries.png"}
 {"_id":{"$oid":"61a7bc7993b3cbc919973870"},"ingredient_id":"pineapple-juice","name":"pineapple juice","img":"https://www.manjarokitchen.com/wp-content/uploads/rpress/2020/05/pineapple-juice.jpg"}
-{"_id":{"$oid":"61a7bcca93b3cbc919973894"},"ingredient_id":"orange-juice","name":"orange juice","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Orange-Juice.png"}
+{"_id":{"$oid":"61a7b9f893b3cbc919973778"},"ingredient_id":"fresh-lemonade","name":"fresh lemonade","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Lemonade.png"}
+{"_id":{"$oid":"61a7bc1393b3cbc919973833"},"ingredient_id":"mango","name":"mango","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Mango.png"}
+{"_id":{"$oid":"61a67d8793b3cbc919973161"},"ingredient_id":"fat-free-vanilla-frozen-yogurt","name":"fat free vanilla frozen yogurt","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/VanillaFrozenYogurt.png"}
 {"_id":{"$oid":"61a7bf4b93b3cbc91997393d"},"ingredient_id":"kiwi","name":"kiwi","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Kiwi.png"}
-{"_id":{"$oid":"61a7c01b93b3cbc91997397e"},"ingredient_id":"apple-juice","name":"apple juice","img":"https://previews.123rf.com/images/rjlerich/rjlerich1302/rjlerich130200007/17905240-.jpg"}
 {"_id":{"$oid":"61a7c05993b3cbc919973995"},"ingredient_id":"oat-squares","name":"oat squares","img":"https://scene7.samsclub.com/is/image/samsclub/0003000044061_A"}
 {"_id":{"$oid":"61a7c13193b3cbc9199739d9"},"ingredient_id":"granola","name":"granola","img":"https://yumchief.com/wp-content/uploads/2021/03/granola-with-banana-main.jpg"}
 {"_id":{"$oid":"61a8e0ee93b3cbc919973b3f"},"ingredient_id":"coconut-cream","name":"coconut cream","img":"https://s.wine.style/images_gen/145/145680/0_0_orig.jpg"}
-{"_id":{"$oid":"61a8e11c93b3cbc919973b53"},"ingredient_id":"organic-pineapple","name":"organic pineapple","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/pineapple.png"}
+{"_id":{"$oid":"61a7c01b93b3cbc91997397e"},"ingredient_id":"apple-juice","name":"apple juice","img":"https://previews.123rf.com/images/rjlerich/rjlerich1302/rjlerich130200007/17905240-.jpg"}
 {"_id":{"$oid":"61af179293b3cbc919976460"},"ingredient_id":"low-fat-vanilla-yogurt","name":"low fat vanilla frozen yogurt","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/VanillaFrozenYogurt.png"}
+{"_id":{"$oid":"61a67d2193b3cbc91997313f"},"ingredient_id":"raspberries","name":"raspberries","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Raspberry.png"}
 {"_id":{"$oid":"61af194993b3cbc9199764fc"},"ingredient_id":"honey","name":"Honey","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Honey.png"}
 {"_id":{"$oid":"61af198193b3cbc919976516"},"ingredient_id":"peach","name":"Peach","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Peach.png"}
+{"_id":{"$oid":"61a8e11c93b3cbc919973b53"},"ingredient_id":"organic-pineapple","name":"organic pineapple","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/pineapple.png"}
 {"_id":{"$oid":"61af1add93b3cbc91997659e"},"ingredient_id":"lemonade","name":"lemonade","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Lemonade.png"}
 {"_id":{"$oid":"61af1add93b3cbc91997654e"},"ingredient_id":"watermelon","name":"Watermelon","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Watermelon.png"}
 {"_id":{"$oid":"61af1add93b3cbc91997c14e"},"ingredient_id":"passion-fruit","name":"Passion fruit","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Passionfruit.png"}
-{"_id":{"$oid":"61af1add93b3cbc91997624e"},"ingredient_id":"lemon-balm-leaves","name":"Lemon balm leaves","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/LemonBalmLeaf.png"}
-{"_id":{"$oid":"61af1add93b3cbc91997694e"},"ingredient_id":"water","name":"water","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Water.png"}
 {"_id":{"$oid":"61af1add93b3cbc91997665e"},"ingredient_id":"chia-seeds","name":"Chia seeds","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/ChiaSeeds.png"}
+{"_id":{"$oid":"61a7bcca93b3cbc919973894"},"ingredient_id":"orange-juice","name":"orange juice","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Orange-Juice.png"}
+{"_id":{"$oid":"61af1add93b3cbc91997694e"},"ingredient_id":"water","name":"water","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Water.png"}
 {"_id":{"$oid":"61af1add93b3cbc91997666e"},"ingredient_id":"cucumber-slices","name":"Cucumber slices","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/CucumberSlices.png"}
-{"_id":{"$oid":"61af1add93b3cbc919976374"},"ingredient_id":"bok-choy","name":"Bok Choy","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/BokChoy.png"}
-{"_id":{"$oid":"61af1add93b3cbc91997611e"},"ingredient_id":"papaya","name":"Papaya","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/papaya.png"}
-{"_id":{"$oid":"61af1add93b3cbc91997612d"},"ingredient_id":"scoop-chocolate-oat-protein-powder","name":"Scoop chocolate oat protein powder","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/scoop-chocolate-oat-protein-powder.png"}
-{"_id":{"$oid":"61af1add93b3cbc91997613e"},"ingredient_id":"sweet-potato","name":"Sweet potato","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Sweet-potato.png"}
-{"_id":{"$oid":"61af1add93b3cbc91997b14e"},"ingredient_id":"oat-milk","name":"Oat milk","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/OatMilk.png"}
-{"_id":{"$oid":"61af1add93b3cbc91997615e"},"ingredient_id":"maple-syrup","name":"Maple syrup","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/MapleSyrup.png"}
-{"_id":{"$oid":"61af1add93b3cbc91997625e"},"ingredient_id":"cinnamon","name":"Cinnamon","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Cinnamon.png"}
-{"_id":{"$oid":"61af1add93b3cbc919976e23"},"ingredient_id":"almond-butter","name":"Almond butter","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/AlmondButter.png"}
 {"_id":{"$oid":"61af1add93b3cbc919971af7"},"ingredient_id":"greek-yogurt","name":"Greek yogurt","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/GreekYoghurt.png"}
-{"_id":{"$oid":"61af1add93b3cbc919976fb5"},"ingredient_id":"carrot","name":"Carrot","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Carrot.png"}
+{"_id":{"$oid":"61af1add93b3cbc919976374"},"ingredient_id":"bok-choy","name":"Bok Choy","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/BokChoy.png"}
+{"_id":{"$oid":"61af1add93b3cbc91997613e"},"ingredient_id":"sweet-potato","name":"Sweet potato","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Sweet-potato.png"}
 {"_id":{"$oid":"61af1add93b3cbc919976cd1"},"ingredient_id":"flaxs-seed","name":"Flaxs seed","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/FlaxSeeds.png"}
+{"_id":{"$oid":"61af1add93b3cbc91997b14e"},"ingredient_id":"oat-milk","name":"Oat milk","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/OatMilk.png"}
 {"_id":{"$oid":"61af1add93b3cbc919996a23"},"ingredient_id":"beetroot","name":"Beetroot","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/beetroot.png"}
 {"_id":{"$oid":"61af1add93b3cbc919976b53"},"ingredient_id":"green-apple","name":"Green apple","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/GreenApple.png"}
+{"_id":{"$oid":"61af1add93b3cbc919976fb5"},"ingredient_id":"carrot","name":"Carrot","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Carrot.png"}
+{"_id":{"$oid":"61af1add93b3cbc91997611e"},"ingredient_id":"papaya","name":"Papaya","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/papaya.png"}
+{"_id":{"$oid":"61af1add93b3cbc91997615e"},"ingredient_id":"maple-syrup","name":"Maple syrup","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/MapleSyrup.png"}
+{"_id":{"$oid":"61af1add93b3cbc919976e23"},"ingredient_id":"almond-butter","name":"Almond butter","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/AlmondButter.png"}
+{"_id":{"$oid":"61af1add93b3cbc91997625e"},"ingredient_id":"cinnamon","name":"Cinnamon","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Cinnamon.png"}
+{"_id":{"$oid":"61af1add93b3cbc91997612d"},"ingredient_id":"scoop-chocolate-oat-protein-powder","name":"Scoop chocolate oat protein powder","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/scoop-chocolate-oat-protein-powder.png"}
+{"_id":{"$oid":"61af1add93b3cbc91997624e"},"ingredient_id":"lemon-balm-leaves","name":"Lemon balm leaves","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/LemonBalmLeaf.png"}
