@@ -1,6 +1,6 @@
-{"_id":{"$oid":"619010bff206a49fada185c4"},"text":"💪 Muscle","label_id":"muscle"}
-{"_id":{"$oid":"619010d9f206a49fada185d4"},"text":"🛡️️ Immunity","label_id":"immunity"}
-{"_id":{"$oid":"619010eff206a49fada185e2"},"text":"🥑️ Vegan","label_id":"vegan"}
 {"_id":{"$oid":"61901108f206a49fada185ea"},"text":"🌿️ Plant Based","label_id":"plant-based"}
+{"_id":{"$oid":"619010d9f206a49fada185d4"},"text":"🛡️️ Immunity","label_id":"immunity"}
+{"_id":{"$oid":"619010bff206a49fada185c4"},"text":"💪 Muscle","label_id":"muscle"}
+{"_id":{"$oid":"619010eff206a49fada185e2"},"text":"🥑️ Vegan","label_id":"vegan"}
 {"_id":{"$oid":"6190111cf206a49fada185f2"},"text":"⚡️ Energy","label_id":"energy"}
 {"_id":{"$oid":"619011ecf206a49fada18623"},"text":"💆‍ Chill","label_id":"chill"}
