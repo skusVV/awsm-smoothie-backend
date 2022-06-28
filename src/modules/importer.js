@@ -23,7 +23,7 @@ const processIngredients = ingredients => {
         }
       }
     );
-  console.log(result)
+  
   return result;
 };
 const processCategories = categories => categories.split(', ').map(el => nornalizeName(el))
@@ -129,7 +129,6 @@ fs.createReadStream(args[0])
     count++;
   })
   .on('end', _ => {
-    console.log(result.map(el => el.name));
     const json = JSON.stringify(result, null, '\t');
     const writeCallback = _ => console.log(`Finished. Processed: ${count} documents`);
     
