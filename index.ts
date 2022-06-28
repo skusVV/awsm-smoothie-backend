@@ -26,7 +26,7 @@ dynamicRoutes(app);
 
 const init = async() => {
     try {
-        await mongoose.connect(MONGO_URI );
+        await mongoose.connect(MONGO_URI);
         console.log('Connected');
     } catch (e) {
         console.log(e);

@@ -106,7 +106,6 @@ const addOptions = row => {
       }
     ],
     labels: row.diet_type.split(','),
-    // ingredients: row.ingredients.map(elements => ({ ...el, ingredient_id: nornalizeName(elements.title)})),
     author_id: 'kaivan-dave',
     overviewDescription: row.overview,
     overviewParagraphs: row.overview.split('|'),
