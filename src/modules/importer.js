@@ -12,7 +12,7 @@ const processIngredients = ingredients => {
   
   ingredients
     .toLowerCase()
-    .split(', ')
+    .split(',')
     .forEach(el => {
         const namesLength = names.length;
         
@@ -23,7 +23,7 @@ const processIngredients = ingredients => {
               info: el
                 .replace(names[i], '')
                 .replace(/ of |,/gi, '')
-                .replace(/ /g, ' ')
+                .replace(/ +/g, ' ')
                 .trim(),
               imgUrl: '',
               ingredient_id: nornalizeName(names[i])});
