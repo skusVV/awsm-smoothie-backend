@@ -33,6 +33,7 @@
 {"_id":{"$oid":"61a7c05993b3cbc919973995"},"ingredient_id":"oat-squares","name":"oat squares","img":"https://scene7.samsclub.com/is/image/samsclub/0003000044061_A"}
 {"_id":{"$oid":"61a7c13193b3cbc9199739d9"},"ingredient_id":"granola","name":"granola","img":"https://yumchief.com/wp-content/uploads/2021/03/granola-with-banana-main.jpg"}
 {"_id":{"$oid":"61a8e0ee93b3cbc919973b3f"},"ingredient_id":"coconut-cream","name":"coconut cream","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Coconut-cream.png"}
+{"_id":{"$oid":"11a8e0ee93b3cbc919973b3f"},"ingredient_id":"light-coconut-cream","name":"light coconut cream","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Coconut-cream.png"}
 {"_id":{"$oid":"61a7c01b93b3cbc91997397e"},"ingredient_id":"apple-juice","name":"apple juice","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/AppleJuice.png"}
 {"_id":{"$oid":"61af179293b3cbc919976460"},"ingredient_id":"low-fat-vanilla-yogurt","name":"low fat vanilla frozen yogurt","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/VanillaFrozenYogurt.png"}
 {"_id":{"$oid":"61a67d2193b3cbc91997313f"},"ingredient_id":"raspberries","name":"raspberries","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Raspberry.png"}
@@ -84,7 +85,9 @@
 {"_id":{"$oid":"61a8e05e93b3cbc9a9973b3f"},"ingredient_id":"whey-protein","name":"whey protein","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e04e93b3cbc919973b3f"},"ingredient_id":"coconut-oil","name":"coconut oil","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e02e93b3cbc9199c3b3f"},"ingredient_id":"chocolate-whey-protein-powder","name":"chocolate whey protein powder","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
+{"_id":{"$oid":"23a8e02e93b3cbc9199c3b3f"},"ingredient_id":"chocolate-whey-protein","name":"chocolate whey protein","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e07e93b3cbc919973b3f"},"ingredient_id":"vanilla-whey-protein-powder","name":"vanilla whey protein powder","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
+{"_id":{"$oid":"61a8e07e93b3a34919973b3f"},"ingredient_id":"vanilla-whey-protein","name":"vanilla whey protein","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0ee43b3cbc919973b3f"},"ingredient_id":"espresso","name":"espresso","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0ee23b3cbc919973b3f"},"ingredient_id":"pitted-dates","name":"pitted dates","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0e393b3cbc919973b3f"},"ingredient_id":"fat-free-vanilla-frozen-yogurt","name":"fat-free vanilla frozen yogurt","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
@@ -109,7 +112,9 @@
 {"_id":{"$oid":"61a8e0ee93b3cb591b973b3f"},"ingredient_id":"light-coconut-milk","name":"light coconut milk","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0ee93b3cb5919973b3f"},"ingredient_id":"coconut-milk","name":"coconut milk","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0ee93b3cb1919973b3f"},"ingredient_id":"frozen-pineapple-chunks","name":"frozen pineapple chunks", "img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
+{"_id":{"$oid":"612845ee93b3cb1919973b3f"},"ingredient_id":"frozen-pineapple","name":"frozen pineapple", "img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0ee91b3cb2919973b3f"},"ingredient_id":"turmeric","name":"turmeric","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0e623b3cbc919973b3f"},"ingredient_id":"lime-juice","name":"lime juice","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0ee93b3aa1119973b3f"},"ingredient_id":"frozen-mango","name":"frozen mango","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0ee93b3cb1119973b3f"},"ingredient_id":"avocado","name":"avocado","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
+{"_id":{"$oid":"61a8e0ee93b3cb6490573b3f"},"ingredient_id":"peanut-butter-plant-based-protein","name":"peanut butter plant-based protein","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}

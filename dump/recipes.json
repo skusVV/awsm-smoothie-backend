@@ -1,6 +1,6 @@
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f893b"
+    "$oid": "62bca6fb942d7c57dca43037"
   },
   "name": "peanut-butter-keto-shake",
   "original_youtube_link": "https://youtube.com/shorts/S13wLyujAhg",
@@ -98,7 +98,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f893c"
+    "$oid": "62bca6fb942d7c57dca43038"
   },
   "name": "citrus-pre-workout-shake",
   "original_youtube_link": "https://youtube.com/shorts/7hySgH-nAkw",
@@ -198,7 +198,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f893d"
+    "$oid": "62bca6fb942d7c57dca43039"
   },
   "name": "ruby-red",
   "original_youtube_link": "https://youtube.com/shorts/aYXyiLgt0nQ",
@@ -304,7 +304,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f893e"
+    "$oid": "62bca6fb942d7c57dca4303a"
   },
   "name": "banana-split",
   "original_youtube_link": "https://youtube.com/shorts/zCBWwov7YIo",
@@ -411,7 +411,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f893f"
+    "$oid": "62bca6fb942d7c57dca4303b"
   },
   "name": "orange-and-banana-protein-shake",
   "original_youtube_link": "https://youtube.com/shorts/Zc4zbwelgn8",
@@ -515,7 +515,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8940"
+    "$oid": "62bca6fb942d7c57dca4303c"
   },
   "name": "simple-spinach-shake",
   "original_youtube_link": "https://youtu.be/LCAHoqUAxiE",
@@ -609,7 +609,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8941"
+    "$oid": "62bca6fb942d7c57dca4303d"
   },
   "name": "chia-peanut-protein-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/fahGaknSNuM",
@@ -703,7 +703,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8942"
+    "$oid": "62bca6fb942d7c57dca4303e"
   },
   "name": "creamy-chocolate-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/t-b5u7vwjiM",
@@ -797,7 +797,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8943"
+    "$oid": "62bca6fb942d7c57dca4303f"
   },
   "name": "abc-smoothie",
   "original_youtube_link": "https://youtu.be/4dtC8c_RqB0",
@@ -891,7 +891,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8944"
+    "$oid": "62bca6fb942d7c57dca43040"
   },
   "name": "buttercream-y-protein-shake",
   "original_youtube_link": "https://youtube.com/shorts/1RRwA5odwOQ",
@@ -985,7 +985,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8945"
+    "$oid": "62bca6fb942d7c57dca43041"
   },
   "name": "creamy-chocolate-peanut-shake",
   "original_youtube_link": "https://youtube.com/shorts/XnDWsXndDOE",
@@ -1079,7 +1079,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8946"
+    "$oid": "62bca6fb942d7c57dca43042"
   },
   "name": "nutty-banana-coconut-shake",
   "original_youtube_link": "https://youtube.com/shorts/dsTawwoTbsk",
@@ -1171,7 +1171,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8947"
+    "$oid": "62bca6fb942d7c57dca43043"
   },
   "name": "vanilla-honey-and-almond-shake",
   "original_youtube_link": "https://youtube.com/shorts/ZXS1Maw7M0s",
@@ -1287,7 +1287,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8948"
+    "$oid": "62bca6fb942d7c57dca43044"
   },
   "name": "high-fat-chocolate-shake",
   "original_youtube_link": "https://youtube.com/shorts/b9uFJ2Vz0cc",
@@ -1329,7 +1329,7 @@
     },
     {
       "title": "ice",
-      "info": "1/2 cup  as needed",
+      "info": "1/2 cup as needed",
       "imgUrl": "",
       "ingredient_id": "ice"
     },
@@ -1397,7 +1397,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8949"
+    "$oid": "62bca6fb942d7c57dca43045"
   },
   "name": "cashew-cookie-shake",
   "original_youtube_link": "https://youtube.com/shorts/vmKyzV6ijNY",
@@ -1495,7 +1495,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f894a"
+    "$oid": "62bca6fb942d7c57dca43046"
   },
   "name": "low-carb-coffee-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/TJmQu80pS3k",
@@ -1519,7 +1519,7 @@
     },
     {
       "title": "espresso",
-      "info": "1/2 cup  or strong coffee",
+      "info": "1/2 cup or strong coffee",
       "imgUrl": "",
       "ingredient_id": "espresso"
     },
@@ -1605,7 +1605,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f894b"
+    "$oid": "62bca6fb942d7c57dca43047"
   },
   "name": "coconut-berry-shake",
   "original_youtube_link": "https://youtu.be/uFr3XiKJGps",
@@ -1705,7 +1705,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f894c"
+    "$oid": "62bca6fb942d7c57dca43048"
   },
   "name": "lemony-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/bHcEC1kEwNI",
@@ -1791,7 +1791,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f894d"
+    "$oid": "62bca6fb942d7c57dca43049"
   },
   "name": "keto-blueberry-shake",
   "original_youtube_link": "https://youtube.com/shorts/P67yz5rRqvo",
@@ -1885,7 +1885,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f894e"
+    "$oid": "62bca6fb942d7c57dca4304a"
   },
   "name": "chocolate-avocado-shake",
   "original_youtube_link": "",
@@ -1897,7 +1897,7 @@
   "ingredients": [
     {
       "title": "avocado",
-      "info": "1/2  diced",
+      "info": "1/2 diced",
       "imgUrl": "",
       "ingredient_id": "avocado"
     },
@@ -1977,7 +1977,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f894f"
+    "$oid": "62bca6fb942d7c57dca4304b"
   },
   "name": "vanilla-bean-thickshake",
   "original_youtube_link": "https://youtube.com/shorts/px2ls7eXH_Y",
@@ -2012,10 +2012,10 @@
       "ingredient_id": "sea-salt"
     },
     {
-      "title": "whey protein",
-      "info": "1 scoop vanilla",
+      "title": "vanilla whey protein",
+      "info": "1 scoop",
       "imgUrl": "",
-      "ingredient_id": "whey-protein"
+      "ingredient_id": "vanilla-whey-protein"
     }
   ],
   "overview": "Looking for a healthy keto smoothie option? This Vanilla Bean Thickshake is perfect! Made with almond milk, vanilla extract, and protein powder, it's a great way to start your day or refuel after a workout.",
@@ -2075,7 +2075,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8950"
+    "$oid": "62bca6fb942d7c57dca4304c"
   },
   "name": "coffee-&-banana-shake",
   "original_youtube_link": "https://youtube.com/shorts/0AwpAkvMuWY",
@@ -2169,7 +2169,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8951"
+    "$oid": "62bca6fb942d7c57dca4304d"
   },
   "name": "wild-berrie-zone",
   "original_youtube_link": "https://youtu.be/gfAFdLqEloE",
@@ -2207,7 +2207,7 @@
     },
     {
       "title": "fat-free vanilla frozen yogurt",
-      "info": "1/2  cup",
+      "info": "1/2 cup",
       "imgUrl": "",
       "ingredient_id": "fat-free-vanilla-frozen-yogurt"
     },
@@ -2275,7 +2275,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8952"
+    "$oid": "62bca6fb942d7c57dca4304e"
   },
   "name": "blue-almond-fiesta",
   "original_youtube_link": "https://youtu.be/xCf5P5kwVY4",
@@ -2294,8 +2294,14 @@
       "ingredient_id": "almonds"
     },
     {
+      "title": "blueberries",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "blueberries"
+    },
+    {
       "title": "peanut butter",
-      "info": "1/2 cup blueberries1 tablespoon",
+      "info": "1 tablespoon",
       "imgUrl": "",
       "ingredient_id": "peanut-butter"
     },
@@ -2368,7 +2374,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8953"
+    "$oid": "62bca6fb942d7c57dca4304f"
   },
   "name": "blue-sky-shake",
   "original_youtube_link": "https://youtube.com/shorts/SZB0iwUo-hM",
@@ -2481,7 +2487,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8954"
+    "$oid": "62bca6fb942d7c57dca43050"
   },
   "name": "green-delite",
   "original_youtube_link": "https://youtu.be/rx5x5CuUG98",
@@ -2592,7 +2598,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8955"
+    "$oid": "62bca6fb942d7c57dca43051"
   },
   "name": "smooth-banana-nut",
   "original_youtube_link": "https://youtu.be/8HUNzLbKNqQ",
@@ -2605,8 +2611,14 @@
   "original_image_link": "https://drive.google.com/file/d/1SYaKkxtgEaI6C76DT6dEDnZFF3XJG1R0/view?usp=sharing",
   "ingredients": [
     {
+      "title": "banana",
+      "info": "1 medium",
+      "imgUrl": "",
+      "ingredient_id": "banana"
+    },
+    {
       "title": "chopped pecans",
-      "info": "1 medium banana¼ cup",
+      "info": "¼ cup",
       "imgUrl": "",
       "ingredient_id": "chopped-pecans"
     },
@@ -2617,14 +2629,20 @@
       "ingredient_id": "chopped-almonds"
     },
     {
+      "title": "skim milk",
+      "info": "1/4 cup",
+      "imgUrl": "",
+      "ingredient_id": "skim-milk"
+    },
+    {
       "title": "fat-free vanilla frozen yogurt",
-      "info": "1/4 cup skim milk¾ cup",
+      "info": "¾ cup",
       "imgUrl": "",
       "ingredient_id": "fat-free-vanilla-frozen-yogurt"
     },
     {
       "title": "touch of honey",
-      "info": "a  (1 teaspoon)",
+      "info": "a (1 teaspoon)",
       "imgUrl": "",
       "ingredient_id": "touch-of-honey"
     }
@@ -2686,7 +2704,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8956"
+    "$oid": "62bca6fb942d7c57dca43052"
   },
   "name": "raspberry-zinger-haven",
   "original_youtube_link": "https://youtu.be/4eK_gZzbzcY",
@@ -2706,9 +2724,15 @@
     },
     {
       "title": "banana",
-      "info": "1 small 1 lime",
+      "info": "1 small",
       "imgUrl": "",
       "ingredient_id": "banana"
+    },
+    {
+      "title": "lime",
+      "info": "1",
+      "imgUrl": "",
+      "ingredient_id": "lime"
     },
     {
       "title": "apple cider",
@@ -2779,7 +2803,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8957"
+    "$oid": "62bca6fb942d7c57dca43053"
   },
   "name": "no-bull-berry-light",
   "original_youtube_link": "https://youtu.be/9L0G0szeCMo",
@@ -2885,7 +2909,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8958"
+    "$oid": "62bca6fb942d7c57dca43054"
   },
   "name": "strawberry-lemon-explosion",
   "original_youtube_link": "https://youtu.be/EWL2ZyjThKk",
@@ -2973,7 +2997,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8959"
+    "$oid": "62bca6fb942d7c57dca43055"
   },
   "name": "awesome-peanut-butter",
   "original_youtube_link": "https://youtu.be/DuQN7t0bkYM",
@@ -3066,7 +3090,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f895a"
+    "$oid": "62bca6fb942d7c57dca43056"
   },
   "name": "blueberry-pie-cloud",
   "original_youtube_link": "https://youtube.com/shorts/BVc-RKHFljQ",
@@ -3167,7 +3191,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f895b"
+    "$oid": "62bca6fb942d7c57dca43057"
   },
   "name": "hot-san-diego",
   "original_youtube_link": "https://youtu.be/Dm_bKBseIzU",
@@ -3254,7 +3278,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f895c"
+    "$oid": "62bca6fb942d7c57dca43058"
   },
   "name": "baby-mango",
   "original_youtube_link": "https://youtu.be/wOYvlNQAOas",
@@ -3268,7 +3292,7 @@
   "ingredients": [
     {
       "title": "mango",
-      "info": "1/2 cup  chopped",
+      "info": "1/2 cup chopped",
       "imgUrl": "",
       "ingredient_id": "mango"
     },
@@ -3341,7 +3365,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f895d"
+    "$oid": "62bca6fb942d7c57dca43059"
   },
   "name": "red-kiwi-brothers",
   "original_youtube_link": "https://youtu.be/RmPMGPJReR8",
@@ -3441,7 +3465,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f895e"
+    "$oid": "62bca6fb942d7c57dca4305a"
   },
   "name": "blue-oat-crunch",
   "original_youtube_link": "https://youtube.com/shorts/QLqqj1n_Tuk?feature=share",
@@ -3540,7 +3564,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f895f"
+    "$oid": "62bca6fb942d7c57dca4305b"
   },
   "name": "dirty-chicago",
   "original_youtube_link": "https://youtu.be/qif2gN68jS8",
@@ -3647,7 +3671,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8960"
+    "$oid": "62bca6fb942d7c57dca4305c"
   },
   "name": "wild-mambo",
   "original_youtube_link": "https://youtu.be/68NfSVlY060",
@@ -3740,7 +3764,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8961"
+    "$oid": "62bca6fb942d7c57dca4305d"
   },
   "name": "sky-mango",
   "original_youtube_link": "https://youtu.be/8CtwcgTpufk",
@@ -3833,7 +3857,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8962"
+    "$oid": "62bca6fb942d7c57dca4305e"
   },
   "name": "fruity-fuschia",
   "original_youtube_link": "https://youtube.com/shorts/v2Nkc66g8Bk",
@@ -3927,7 +3951,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8963"
+    "$oid": "62bca6fb942d7c57dca4305f"
   },
   "name": "honey-b*tch",
   "original_youtube_link": "https://youtu.be/q1tFVmbEmI8",
@@ -4020,7 +4044,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8964"
+    "$oid": "62bca6fb942d7c57dca43060"
   },
   "name": "hyper-tropical-blast",
   "original_youtube_link": "https://youtu.be/QDdt6Mv4jeI",
@@ -4089,7 +4113,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8965"
+    "$oid": "62bca6fb942d7c57dca43061"
   },
   "name": "my-oasis",
   "original_youtube_link": "https://youtu.be/0eABUUb_zww",
@@ -4182,7 +4206,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8966"
+    "$oid": "62bca6fb942d7c57dca43062"
   },
   "name": "inflamation-fighter-and-mood-booster",
   "original_youtube_link": "https://youtube.com/shorts/gMLZuF-mOSU",
@@ -4202,13 +4226,13 @@
     },
     {
       "title": "passion fruit",
-      "info": "½ pc  (or 2 teaspoon passion fruit pulp)",
+      "info": "½ pc (or 2 teaspoon passion fruit pulp)",
       "imgUrl": "",
       "ingredient_id": "passion-fruit"
     },
     {
       "title": "lemon balm leaves",
-      "info": "1 tablespoon  (without stems)",
+      "info": "1 tablespoon (without stems)",
       "imgUrl": "",
       "ingredient_id": "lemon-balm-leaves"
     },
@@ -4286,7 +4310,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8967"
+    "$oid": "62bca6fb942d7c57dca43063"
   },
   "name": "papaya-queen",
   "original_youtube_link": "https://youtu.be/2oEa92si8xo",
@@ -4300,7 +4324,7 @@
   "ingredients": [
     {
       "title": "papaya",
-      "info": "¼ pc  (ca 150 g)",
+      "info": "¼ pc (ca 150 g)",
       "imgUrl": "",
       "ingredient_id": "papaya"
     },
@@ -4388,7 +4412,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8968"
+    "$oid": "62bca6fb942d7c57dca43064"
   },
   "name": "garden-in-a-cup",
   "original_youtube_link": "https://youtube.com/shorts/0HBxTzgaECc",
@@ -4482,7 +4506,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8969"
+    "$oid": "62bca6fb942d7c57dca43065"
   },
   "name": "citrus-green-berry-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/cVBd4zMrY1I",
@@ -4594,7 +4618,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f896a"
+    "$oid": "62bca6fb942d7c57dca43066"
   },
   "name": "chocolate-java",
   "original_youtube_link": "https://youtu.be/ZwverA6hOmo",
@@ -4694,7 +4718,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f896b"
+    "$oid": "62bca6fb942d7c57dca43067"
   },
   "name": "blue-dream",
   "original_youtube_link": "https://youtu.be/m_uXcNQeLkc",
@@ -4788,7 +4812,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f896c"
+    "$oid": "62bca6fb942d7c57dca43068"
   },
   "name": "happy-hour-pineapple-paradise",
   "original_youtube_link": "https://youtube.com/shorts/g4qJYQlKRug",
@@ -4808,7 +4832,7 @@
     },
     {
       "title": "banana",
-      "info": "1small",
+      "info": "1 small",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
@@ -4894,7 +4918,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f896d"
+    "$oid": "62bca6fb942d7c57dca43069"
   },
   "name": "creamy-green",
   "original_youtube_link": "https://youtube.com/shorts/rDS0iHPvmJk",
@@ -4925,10 +4949,10 @@
       "ingredient_id": "coconut-milk"
     },
     {
-      "title": "pineapple",
-      "info": "¼ cup frozen",
+      "title": "frozen pineapple",
+      "info": "¼ cup",
       "imgUrl": "",
-      "ingredient_id": "pineapple"
+      "ingredient_id": "frozen-pineapple"
     },
     {
       "title": "vanilla plant-based protein powder",
@@ -5000,7 +5024,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f896e"
+    "$oid": "62bca6fb942d7c57dca4306a"
   },
   "name": "coconut-carrot-and-ginger",
   "original_youtube_link": "https://youtube.com/shorts/se6hTrZZ5vE",
@@ -5019,10 +5043,10 @@
       "ingredient_id": "carrot"
     },
     {
-      "title": "pineapple",
-      "info": "½ cup frozen",
+      "title": "frozen pineapple",
+      "info": "½ cup",
       "imgUrl": "",
-      "ingredient_id": "pineapple"
+      "ingredient_id": "frozen-pineapple"
     },
     {
       "title": "ginger",
@@ -5043,10 +5067,10 @@
       "ingredient_id": "spinach"
     },
     {
-      "title": "coconut cream",
-      "info": "½ cup light",
+      "title": "light coconut cream",
+      "info": "½ cup",
       "imgUrl": "",
-      "ingredient_id": "coconut-cream"
+      "ingredient_id": "light-coconut-cream"
     },
     {
       "title": "ice",
@@ -5112,7 +5136,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f896f"
+    "$oid": "62bca6fb942d7c57dca4306b"
   },
   "name": "chocolate-elvis",
   "original_youtube_link": "https://youtube.com/shorts/fELcr6qVvso",
@@ -5156,7 +5180,7 @@
     },
     {
       "title": "ice",
-      "info": "¼  cup",
+      "info": "¼ cup",
       "imgUrl": "",
       "ingredient_id": "ice"
     }
@@ -5218,7 +5242,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8970"
+    "$oid": "62bca6fb942d7c57dca4306c"
   },
   "name": "peanut-butter-cup",
   "original_youtube_link": "https://youtube.com/shorts/_3730k0zvnU",
@@ -5250,15 +5274,15 @@
     },
     {
       "title": "vanilla extract",
-      "info": "½  teaspoon",
+      "info": "½ teaspoon",
       "imgUrl": "",
       "ingredient_id": "vanilla-extract"
     },
     {
-      "title": "whey protein",
-      "info": "1 scoop chocolate",
+      "title": "chocolate whey protein",
+      "info": "1 scoop",
       "imgUrl": "",
-      "ingredient_id": "whey-protein"
+      "ingredient_id": "chocolate-whey-protein"
     }
   ],
   "overview": "Love chocolate and peanut butter? This classic combo comes together in this post-workout shake.",
@@ -5318,7 +5342,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8971"
+    "$oid": "62bca6fb942d7c57dca4306d"
   },
   "name": "birthday-cake-shake",
   "original_youtube_link": "https://youtube.com/shorts/6D0v_icE6wU",
@@ -5344,19 +5368,19 @@
     },
     {
       "title": "vanilla extract",
-      "info": "½  teaspoon",
+      "info": "½ teaspoon",
       "imgUrl": "",
       "ingredient_id": "vanilla-extract"
     },
     {
-      "title": "whey protein",
-      "info": "1 scoop vanilla",
+      "title": "vanilla whey protein",
+      "info": "1 scoop",
       "imgUrl": "",
-      "ingredient_id": "whey-protein"
+      "ingredient_id": "vanilla-whey-protein"
     },
     {
       "title": "ice",
-      "info": "½  cup",
+      "info": "½ cup",
       "imgUrl": "",
       "ingredient_id": "ice"
     },
@@ -5424,7 +5448,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8972"
+    "$oid": "62bca6fb942d7c57dca4306e"
   },
   "name": "chocolate-coconut",
   "original_youtube_link": "https://youtube.com/shorts/F_R-Ot9swsY",
@@ -5438,7 +5462,7 @@
   "ingredients": [
     {
       "title": "light coconut milk",
-      "info": "½  cup",
+      "info": "½ cup",
       "imgUrl": "",
       "ingredient_id": "light-coconut-milk"
     },
@@ -5468,15 +5492,15 @@
     },
     {
       "title": "vanilla extract",
-      "info": "½  teaspoon",
+      "info": "½ teaspoon",
       "imgUrl": "",
       "ingredient_id": "vanilla-extract"
     },
     {
-      "title": "whey protein",
-      "info": "1 scoop chocolate",
+      "title": "chocolate whey protein",
+      "info": "1 scoop",
       "imgUrl": "",
-      "ingredient_id": "whey-protein"
+      "ingredient_id": "chocolate-whey-protein"
     }
   ],
   "overview": "Chocolate and coconut come together to provide muscle building protein in a keto-friendly shake.",
@@ -5536,7 +5560,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8973"
+    "$oid": "62bca6fb942d7c57dca4306f"
   },
   "name": "nutty-butter",
   "original_youtube_link": "https://youtube.com/shorts/yermABtD8rs",
@@ -5567,10 +5591,10 @@
       "ingredient_id": "ice"
     },
     {
-      "title": "peanut butter",
-      "info": "1 scoop  plant-based protein",
+      "title": "peanut butter plant-based protein",
+      "info": "1 scoop",
       "imgUrl": "",
-      "ingredient_id": "peanut-butter"
+      "ingredient_id": "peanut-butter-plant-based-protein"
     }
   ],
   "overview": "Go nuts over this nutty butter smoothie. Packed with protein for the best post-workout benefits.",
@@ -5630,7 +5654,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8974"
+    "$oid": "62bca6fb942d7c57dca43070"
   },
   "name": "hawaiian-breeze-splash",
   "original_youtube_link": "https://youtube.com/shorts/Ju5hDF_3UPc",
@@ -5644,7 +5668,7 @@
   "ingredients": [
     {
       "title": "blueberries",
-      "info": "¼  cup",
+      "info": "¼ cup",
       "imgUrl": "",
       "ingredient_id": "blueberries"
     },
@@ -5656,13 +5680,13 @@
     },
     {
       "title": "coconut",
-      "info": "½  cup",
+      "info": "½ cup",
       "imgUrl": "",
       "ingredient_id": "coconut"
     },
     {
       "title": "mango",
-      "info": "½  cup",
+      "info": "½ cup",
       "imgUrl": "",
       "ingredient_id": "mango"
     },
@@ -5729,7 +5753,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8975"
+    "$oid": "62bca6fb942d7c57dca43071"
   },
   "name": "vanilla-bean",
   "original_youtube_link": "https://youtube.com/shorts/3hfr4CGRcas",
@@ -5823,7 +5847,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8976"
+    "$oid": "62bca6fb942d7c57dca43072"
   },
   "name": "matcha-blend-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/hF5lZCgi_YA",
@@ -5923,7 +5947,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8977"
+    "$oid": "62bca6fb942d7c57dca43073"
   },
   "name": "mixed-berry-replenisher",
   "original_youtube_link": "https://youtube.com/shorts/X7FRKIn6Uu8",
@@ -6017,7 +6041,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8978"
+    "$oid": "62bca6fb942d7c57dca43074"
   },
   "name": "chocolate-fudge",
   "original_youtube_link": "https://youtube.com/shorts/4tZKvDnbXh8",
@@ -6111,7 +6135,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8979"
+    "$oid": "62bca6fb942d7c57dca43075"
   },
   "name": "blueberry-pie",
   "original_youtube_link": "https://youtube.com/shorts/7yqLZhX9_KA",
@@ -6211,7 +6235,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f897a"
+    "$oid": "62bca6fb942d7c57dca43076"
   },
   "name": "banana-almond-shake",
   "original_youtube_link": "https://youtube.com/shorts/ivNFCcCoH-s",
@@ -6311,7 +6335,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f897b"
+    "$oid": "62bca6fb942d7c57dca43077"
   },
   "name": "golden-shake",
   "original_youtube_link": "https://youtube.com/shorts/6za8bxAK9R4",
@@ -6411,7 +6435,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f897c"
+    "$oid": "62bca6fb942d7c57dca43078"
   },
   "name": "passion-fruit-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/ltxpq9cIuw8",
@@ -6515,7 +6539,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f897d"
+    "$oid": "62bca6fb942d7c57dca43079"
   },
   "name": "rainbow-shake",
   "original_youtube_link": "https://youtube.com/shorts/o8iAfcjYD-E",
@@ -6621,7 +6645,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f897e"
+    "$oid": "62bca6fb942d7c57dca4307a"
   },
   "name": "tropical-workout-shake",
   "original_youtube_link": "https://youtube.com/shorts/AqJO2Ff1i3w",
@@ -6716,7 +6740,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f897f"
+    "$oid": "62bca6fb942d7c57dca4307b"
   },
   "name": "cinnamon-roll-shake",
   "original_youtube_link": "https://youtube.com/shorts/BKX1gqi18XA",
@@ -6804,7 +6828,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8980"
+    "$oid": "62bca6fb942d7c57dca4307c"
   },
   "name": "pb-&-j-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/ph611cgngCQ",
@@ -6898,7 +6922,7 @@
 }
 {
   "_id": {
-    "$oid": "62bc949f237b51e0a75f8981"
+    "$oid": "62bca6fb942d7c57dca4307d"
   },
   "name": "lemon-sorbet-shake",
   "original_youtube_link": "https://youtube.com/shorts/rnWHfDMaQ54",
@@ -6916,7 +6940,7 @@
     },
     {
       "title": "lemon juice",
-      "info": "1  and zest",
+      "info": "1",
       "imgUrl": "",
       "ingredient_id": "lemon-juice"
     },
