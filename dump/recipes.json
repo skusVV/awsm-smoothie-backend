@@ -1,6 +1,6 @@
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b49"
+    "$oid": "62bc949f237b51e0a75f893b"
   },
   "name": "peanut-butter-keto-shake",
   "original_youtube_link": "https://youtube.com/shorts/S13wLyujAhg",
@@ -11,22 +11,34 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Peanut+Butter+Keto+Shake.heic",
   "ingredients": [
     {
-      "title": "coconut",
-      "info": "1/4 cup coconut milk",
+      "title": "coconut milk",
+      "info": "1/4 cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "coconut-milk"
     },
     {
       "title": "peanut butter",
-      "info": "1 tbs peanut butter",
+      "info": "1 tbs",
       "imgUrl": "",
       "ingredient_id": "peanut-butter"
     },
     {
-      "title": "peanut butter",
-      "info": "1 scoop peanut butter casein protein powder",
+      "title": "peanut butter casein protein powder",
+      "info": "1 scoop",
       "imgUrl": "",
-      "ingredient_id": "peanut-butter"
+      "ingredient_id": "peanut-butter-casein-protein-powder"
+    },
+    {
+      "title": "vanilla extract",
+      "info": "½ tsp",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-extract"
+    },
+    {
+      "title": "ice",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "This keto smoothie recipe uses peanut butter as the base for an easy and healthy shake that will give you plenty of natural fats and protein to help you make it through the day!",
@@ -86,7 +98,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b4a"
+    "$oid": "62bc949f237b51e0a75f893c"
   },
   "name": "citrus-pre-workout-shake",
   "original_youtube_link": "https://youtube.com/shorts/7hySgH-nAkw",
@@ -99,16 +111,34 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Citrus+Pre+workout+Shake.heic",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "1 frozen banana",
+      "title": "orange",
+      "info": "1",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "orange"
     },
     {
-      "title": "coconut",
-      "info": "1/2 cup light coconut milk",
+      "title": "frozen banana",
+      "info": "1",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "frozen-banana"
+    },
+    {
+      "title": "lemon juice",
+      "info": "1 teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "lemon-juice"
+    },
+    {
+      "title": "light coconut milk",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "light-coconut-milk"
+    },
+    {
+      "title": "plant based protein powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "plant-based-protein-powder"
     }
   ],
   "overview": "Looking for a healthy pre-workout shake recipe? This citrus shake is packed with nutrients to help fuel your workout.",
@@ -168,7 +198,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b4b"
+    "$oid": "62bc949f237b51e0a75f893d"
   },
   "name": "ruby-red",
   "original_youtube_link": "https://youtube.com/shorts/aYXyiLgt0nQ",
@@ -181,28 +211,40 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Ruby+Red+Smoothie.jpg",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "½ frozen banana",
+      "title": "frozen banana",
+      "info": "½",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
     },
     {
       "title": "raspberries",
-      "info": "½ cup raspberries",
+      "info": "½ cup",
       "imgUrl": "",
       "ingredient_id": "raspberries"
     },
     {
+      "title": "beetroot",
+      "info": "¼",
+      "imgUrl": "",
+      "ingredient_id": "beetroot"
+    },
+    {
       "title": "spinach",
-      "info": "1 cup spinach",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "spinach"
     },
     {
-      "title": "coconut",
-      "info": "1/2 cup light coconut milk",
+      "title": "light coconut milk",
+      "info": "1/2 cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "light-coconut-milk"
+    },
+    {
+      "title": "ice",
+      "info": "1 cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "Ready for a bright red treat? This antioxidant-packed ruby red smoothie is bright in color and flavor.",
@@ -262,7 +304,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b4c"
+    "$oid": "62bc949f237b51e0a75f893e"
   },
   "name": "banana-split",
   "original_youtube_link": "https://youtube.com/shorts/zCBWwov7YIo",
@@ -275,28 +317,40 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Banana+Split.heic",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "1 frozen banana",
+      "title": "frozen banana",
+      "info": "1",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
     },
     {
-      "title": "strawberries",
-      "info": "1/2 cup frozen strawberries",
+      "title": "frozen strawberries",
+      "info": "1/2 cup",
       "imgUrl": "",
-      "ingredient_id": "strawberries"
+      "ingredient_id": "frozen-strawberries"
     },
     {
-      "title": "coconut",
-      "info": "1/2 cup coconut yogurt",
+      "title": "coconut yogurt",
+      "info": "1/2 cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "coconut-yogurt"
     },
     {
       "title": "peanut butter",
-      "info": "1/2 tablespoon peanut butter",
+      "info": "1/2 tablespoon",
       "imgUrl": "",
       "ingredient_id": "peanut-butter"
+    },
+    {
+      "title": "cocoa nibs",
+      "info": "1 tablespoon",
+      "imgUrl": "",
+      "ingredient_id": "cocoa-nibs"
+    },
+    {
+      "title": "sprinkles",
+      "info": "1 teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "sprinkles"
     }
   ],
   "overview": "Want a post-workout sweet treat? Try this brilliant banana split shake for extra protein and energy.",
@@ -357,7 +411,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b4d"
+    "$oid": "62bc949f237b51e0a75f893f"
   },
   "name": "orange-and-banana-protein-shake",
   "original_youtube_link": "https://youtube.com/shorts/Zc4zbwelgn8",
@@ -368,16 +422,40 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Orange+%26+Banana+Protein+Shake.heic",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "1/2 frozen banana",
+      "title": "frozen banana",
+      "info": "1/2",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
     },
     {
-      "title": "coconut",
-      "info": "1/2 cup light coconut milk",
+      "title": "light coconut milk",
+      "info": "1/2 cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "light-coconut-milk"
+    },
+    {
+      "title": "orange zest",
+      "info": "1 tablespoon",
+      "imgUrl": "",
+      "ingredient_id": "orange-zest"
+    },
+    {
+      "title": "orange",
+      "info": "1/2",
+      "imgUrl": "",
+      "ingredient_id": "orange"
+    },
+    {
+      "title": "avocado",
+      "info": "1/3",
+      "imgUrl": "",
+      "ingredient_id": "avocado"
+    },
+    {
+      "title": "rice protein powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "rice-protein-powder"
     }
   ],
   "overview": "Try out this orange and banana shake for muscle building. It's packed with healthy antioxidants, easy to make, and tastes great!",
@@ -437,7 +515,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b4e"
+    "$oid": "62bc949f237b51e0a75f8940"
   },
   "name": "simple-spinach-shake",
   "original_youtube_link": "https://youtu.be/LCAHoqUAxiE",
@@ -450,22 +528,28 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Simple+Spinach+Shake.jpg",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "1/2 frozen banana",
+      "title": "frozen banana",
+      "info": "1/2",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
     },
     {
       "title": "spinach",
-      "info": "1 cup spinach",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "spinach"
     },
     {
       "title": "peanut butter",
-      "info": "1 tbsp peanut butter",
+      "info": "1 tbsp",
       "imgUrl": "",
       "ingredient_id": "peanut-butter"
+    },
+    {
+      "title": "plant based protein powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "plant-based-protein-powder"
     }
   ],
   "overview": "This simple, high-protein shake is a great way to build muscle and get your greens in at the same time!",
@@ -525,7 +609,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b4f"
+    "$oid": "62bc949f237b51e0a75f8941"
   },
   "name": "chia-peanut-protein-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/fahGaknSNuM",
@@ -538,16 +622,28 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Chia+Peanut+Protein+Smoothie+.jpg",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "1/2 frozen banana",
+      "title": "frozen banana",
+      "info": "1/2",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
+    },
+    {
+      "title": "chia seeds",
+      "info": "1 tbsp",
+      "imgUrl": "",
+      "ingredient_id": "chia-seeds"
     },
     {
       "title": "peanut butter",
-      "info": "1 tbsp peanut butter",
+      "info": "1 tbsp",
       "imgUrl": "",
       "ingredient_id": "peanut-butter"
+    },
+    {
+      "title": "vanilla extract",
+      "info": "1/4 tsp",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-extract"
     }
   ],
   "overview": "Get your muscle-building protein fix with this easy, nutty-flavored breakfast!",
@@ -607,7 +703,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b50"
+    "$oid": "62bc949f237b51e0a75f8942"
   },
   "name": "creamy-chocolate-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/t-b5u7vwjiM",
@@ -620,10 +716,28 @@
   "original_image_link": "https://drive.google.com/file/d/1s1Vv_olpfN9vVDTKV7bUlmm9QUdgVyOy/view?usp=sharing",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "1 frozen banana",
+      "title": "cocoa powder",
+      "info": "2 tbs",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "cocoa-powder"
+    },
+    {
+      "title": "frozen banana",
+      "info": "1",
+      "imgUrl": "",
+      "ingredient_id": "frozen-banana"
+    },
+    {
+      "title": "cinnamon",
+      "info": "1/4 tsp",
+      "imgUrl": "",
+      "ingredient_id": "cinnamon"
+    },
+    {
+      "title": "pea protein powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "pea-protein-powder"
     }
   ],
   "overview": "A creamy, chocolatey, protein-rich smoothie is an excellent way to get the nutrients you need. This smoothie even contains antioxidants and helps your body build muscle.",
@@ -683,7 +797,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b51"
+    "$oid": "62bc949f237b51e0a75f8943"
   },
   "name": "abc-smoothie",
   "original_youtube_link": "https://youtu.be/4dtC8c_RqB0",
@@ -696,16 +810,28 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=ABC+Smoothie.jpg",
   "ingredients": [
     {
-      "title": "blueberries",
-      "info": "1 cup frozen blueberries",
+      "title": "avocado",
+      "info": "1/2",
       "imgUrl": "",
-      "ingredient_id": "blueberries"
+      "ingredient_id": "avocado"
+    },
+    {
+      "title": "frozen blueberries",
+      "info": "1 cup",
+      "imgUrl": "",
+      "ingredient_id": "frozen-blueberries"
     },
     {
       "title": "coconut cream",
-      "info": "1/4 cup coconut cream",
+      "info": "1/4 cup",
       "imgUrl": "",
       "ingredient_id": "coconut-cream"
+    },
+    {
+      "title": "plant based protein powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "plant-based-protein-powder"
     }
   ],
   "overview": "Avocado, blueberrie, and coconut line up in this nutrient packed, high protein ABC smoothie!",
@@ -765,7 +891,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b52"
+    "$oid": "62bc949f237b51e0a75f8944"
   },
   "name": "buttercream-y-protein-shake",
   "original_youtube_link": "https://youtube.com/shorts/1RRwA5odwOQ",
@@ -778,14 +904,26 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Buttercream-y+Protein+Shake.heic",
   "ingredients": [
     {
+      "title": "avocado",
+      "info": "1/4",
+      "imgUrl": "",
+      "ingredient_id": "avocado"
+    },
+    {
       "title": "banana",
-      "info": "1 banana",
+      "info": "1",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
     {
+      "title": "quick oats",
+      "info": "1/4 cup",
+      "imgUrl": "",
+      "ingredient_id": "quick-oats"
+    },
+    {
       "title": "peanut butter",
-      "info": "1 tbs of peanut butter",
+      "info": "1 tbs",
       "imgUrl": "",
       "ingredient_id": "peanut-butter"
     }
@@ -847,7 +985,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b53"
+    "$oid": "62bc949f237b51e0a75f8945"
   },
   "name": "creamy-chocolate-peanut-shake",
   "original_youtube_link": "https://youtube.com/shorts/XnDWsXndDOE",
@@ -861,15 +999,27 @@
   "ingredients": [
     {
       "title": "banana",
-      "info": "1 banana",
+      "info": "1",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
     {
+      "title": "avocado",
+      "info": "1/2",
+      "imgUrl": "",
+      "ingredient_id": "avocado"
+    },
+    {
       "title": "peanut butter",
-      "info": "1 tbs peanut butter",
+      "info": "1 tbs",
       "imgUrl": "",
       "ingredient_id": "peanut-butter"
+    },
+    {
+      "title": "plant based protein powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "plant-based-protein-powder"
     }
   ],
   "overview": "This high calorie chocolate and peanut shake is perfect for those who need some extra protein, or are looking to bulk up.",
@@ -929,7 +1079,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b54"
+    "$oid": "62bc949f237b51e0a75f8946"
   },
   "name": "nutty-banana-coconut-shake",
   "original_youtube_link": "https://youtube.com/shorts/dsTawwoTbsk",
@@ -941,15 +1091,27 @@
   "ingredients": [
     {
       "title": "banana",
-      "info": "1 banana",
+      "info": "1",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
     {
-      "title": "coconut",
-      "info": "1/2 cup coconut milk",
+      "title": "coconut milk",
+      "info": "1/2 cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "coconut-milk"
+    },
+    {
+      "title": "walnuts",
+      "info": "15 g",
+      "imgUrl": "",
+      "ingredient_id": "walnuts"
+    },
+    {
+      "title": "plant based protein powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "plant-based-protein-powder"
     }
   ],
   "overview": "This shake is loaded with protein and potassium! It's also high in calories and fiber to keep you full for hours.",
@@ -1009,7 +1171,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b55"
+    "$oid": "62bc949f237b51e0a75f8947"
   },
   "name": "vanilla-honey-and-almond-shake",
   "original_youtube_link": "https://youtube.com/shorts/ZXS1Maw7M0s",
@@ -1020,20 +1182,50 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Vanilla+Honey+%26+Almond+Shake.heic",
   "ingredients": [
     {
+      "title": "unsweetened almond milk",
+      "info": "1 cup",
+      "imgUrl": "",
+      "ingredient_id": "unsweetened-almond-milk"
+    },
+    {
+      "title": "almond butter",
+      "info": "1 tbs",
+      "imgUrl": "",
+      "ingredient_id": "almond-butter"
+    },
+    {
       "title": "banana",
-      "info": "1 banana",
+      "info": "1",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
     {
       "title": "rolled oats",
-      "info": "1/4 cup rolled oats",
+      "info": "1/4 cup",
       "imgUrl": "",
       "ingredient_id": "rolled-oats"
     },
     {
+      "title": "vanilla extract",
+      "info": "1 tsp",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-extract"
+    },
+    {
+      "title": "cinnamon",
+      "info": "1 tsp",
+      "imgUrl": "",
+      "ingredient_id": "cinnamon"
+    },
+    {
+      "title": "ground flaxseed",
+      "info": "1 tbs",
+      "imgUrl": "",
+      "ingredient_id": "ground-flaxseed"
+    },
+    {
       "title": "honey",
-      "info": "1 tsp honey",
+      "info": "1 tsp",
       "imgUrl": "",
       "ingredient_id": "honey"
     }
@@ -1095,7 +1287,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b56"
+    "$oid": "62bc949f237b51e0a75f8948"
   },
   "name": "high-fat-chocolate-shake",
   "original_youtube_link": "https://youtube.com/shorts/b9uFJ2Vz0cc",
@@ -1106,14 +1298,44 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=High+Fat+Chocolate+Shake.heic",
   "ingredients": [
     {
-      "title": "coconut",
-      "info": "1/2 cup coconut milk",
+      "title": "coconut milk",
+      "info": "1/2 cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "coconut-milk"
+    },
+    {
+      "title": "avocado",
+      "info": "1/2",
+      "imgUrl": "",
+      "ingredient_id": "avocado"
+    },
+    {
+      "title": "cocoa powder",
+      "info": "1 tbs",
+      "imgUrl": "",
+      "ingredient_id": "cocoa-powder"
+    },
+    {
+      "title": "vanilla extract",
+      "info": "1/2 tsp",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-extract"
+    },
+    {
+      "title": "salt",
+      "info": "dash",
+      "imgUrl": "",
+      "ingredient_id": "salt"
+    },
+    {
+      "title": "ice",
+      "info": "1/2 cup  as needed",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     },
     {
       "title": "peanut butter",
-      "info": "2 tbs peanut butter",
+      "info": "2 tbs",
       "imgUrl": "",
       "ingredient_id": "peanut-butter"
     }
@@ -1175,7 +1397,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b57"
+    "$oid": "62bc949f237b51e0a75f8949"
   },
   "name": "cashew-cookie-shake",
   "original_youtube_link": "https://youtube.com/shorts/vmKyzV6ijNY",
@@ -1186,10 +1408,34 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Cashew+Cookie+Shake.heic",
   "ingredients": [
     {
-      "title": "coconut",
-      "info": "1 cup light coconut milk",
+      "title": "light coconut milk",
+      "info": "1 cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "light-coconut-milk"
+    },
+    {
+      "title": "plant based protein powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "plant-based-protein-powder"
+    },
+    {
+      "title": "cocoa powder",
+      "info": "1 tbsp",
+      "imgUrl": "",
+      "ingredient_id": "cocoa-powder"
+    },
+    {
+      "title": "cashew butter",
+      "info": "1 tbsp",
+      "imgUrl": "",
+      "ingredient_id": "cashew-butter"
+    },
+    {
+      "title": "cinnamon",
+      "info": "1/2 tsp",
+      "imgUrl": "",
+      "ingredient_id": "cinnamon"
     }
   ],
   "overview": "Try out a cashew cookie shake for a delicious way to get your daily dose of protein and it's the perfect snack for people on a low carb diet.",
@@ -1249,7 +1495,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b58"
+    "$oid": "62bc949f237b51e0a75f894a"
   },
   "name": "low-carb-coffee-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/TJmQu80pS3k",
@@ -1260,10 +1506,46 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Low+Carb+Coffee+Smoothie.heic",
   "ingredients": [
     {
-      "title": "coconut",
-      "info": "1/2 cup light coconut milk",
+      "title": "light coconut milk",
+      "info": "1/2 cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "light-coconut-milk"
+    },
+    {
+      "title": "vanilla extract",
+      "info": "1 teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-extract"
+    },
+    {
+      "title": "espresso",
+      "info": "1/2 cup  or strong coffee",
+      "imgUrl": "",
+      "ingredient_id": "espresso"
+    },
+    {
+      "title": "unsweetened cocoa powder",
+      "info": "1 tablespoon",
+      "imgUrl": "",
+      "ingredient_id": "unsweetened-cocoa-powder"
+    },
+    {
+      "title": "vanilla whey powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-whey-powder"
+    },
+    {
+      "title": "avocado",
+      "info": "1/2",
+      "imgUrl": "",
+      "ingredient_id": "avocado"
+    },
+    {
+      "title": "ice",
+      "info": "1 cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "Our Low Carb coffee smoothie is a delicious way to get your daily dose of caffeine while keeping it low carb!",
@@ -1323,7 +1605,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b59"
+    "$oid": "62bc949f237b51e0a75f894b"
   },
   "name": "coconut-berry-shake",
   "original_youtube_link": "https://youtu.be/uFr3XiKJGps",
@@ -1336,16 +1618,34 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Coconut+Berry+Shake+.jpg",
   "ingredients": [
     {
-      "title": "raspberries",
-      "info": "1/2 cup frozen raspberries",
+      "title": "avocado",
+      "info": "1/2",
       "imgUrl": "",
-      "ingredient_id": "raspberries"
+      "ingredient_id": "avocado"
     },
     {
-      "title": "coconut",
-      "info": "½ cup light coconut milk",
+      "title": "frozen raspberries",
+      "info": "1/2 cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "frozen-raspberries"
+    },
+    {
+      "title": "lemon juice",
+      "info": "1 tbsp",
+      "imgUrl": "",
+      "ingredient_id": "lemon-juice"
+    },
+    {
+      "title": "light coconut milk",
+      "info": "½ cup",
+      "imgUrl": "",
+      "ingredient_id": "light-coconut-milk"
+    },
+    {
+      "title": "pea protein powder",
+      "info": "1 scoops",
+      "imgUrl": "",
+      "ingredient_id": "pea-protein-powder"
     }
   ],
   "overview": "This low carb Coconut Berry Shake is a refreshing and healthy way to start your day! Made with simple ingredients, it's perfect for breakfast or a quick snack.",
@@ -1405,7 +1705,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b5a"
+    "$oid": "62bc949f237b51e0a75f894c"
   },
   "name": "lemony-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/bHcEC1kEwNI",
@@ -1416,10 +1716,22 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Lemony+Smoothie.heic",
   "ingredients": [
     {
-      "title": "coconut",
-      "info": "1/2 cup coconut milk",
+      "title": "coconut milk",
+      "info": "1/2 cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "coconut-milk"
+    },
+    {
+      "title": "fresh ginger",
+      "info": "1 tbs",
+      "imgUrl": "",
+      "ingredient_id": "fresh-ginger"
+    },
+    {
+      "title": "vanilla whey protein powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-whey-protein-powder"
     }
   ],
   "overview": "Start your day off right with this low carb Lemony Smoothie. It's a great way to fuel your body for the day ahead and it tastes delicious too!",
@@ -1479,7 +1791,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b5b"
+    "$oid": "62bc949f237b51e0a75f894d"
   },
   "name": "keto-blueberry-shake",
   "original_youtube_link": "https://youtube.com/shorts/P67yz5rRqvo",
@@ -1492,14 +1804,26 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Keto+Blueberry+Shake+Smoothie.jpg",
   "ingredients": [
     {
-      "title": "coconut",
-      "info": "1/2 cup coconut milk",
+      "title": "vanilla extract",
+      "info": "1/4 teaspoon",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "vanilla-extract"
+    },
+    {
+      "title": "coconut milk",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "coconut-milk"
+    },
+    {
+      "title": "whey protein",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "whey-protein"
     },
     {
       "title": "blueberries",
-      "info": "1/4 cup blueberries",
+      "info": "1/4 cup",
       "imgUrl": "",
       "ingredient_id": "blueberries"
     }
@@ -1561,7 +1885,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b5c"
+    "$oid": "62bc949f237b51e0a75f894e"
   },
   "name": "chocolate-avocado-shake",
   "original_youtube_link": "",
@@ -1572,10 +1896,28 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Chocolate+Avocado+Shake.heic",
   "ingredients": [
     {
-      "title": "coconut",
-      "info": "1 tablespoon coconut oil",
+      "title": "avocado",
+      "info": "1/2  diced",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "avocado"
+    },
+    {
+      "title": "coconut oil",
+      "info": "1 tablespoon",
+      "imgUrl": "",
+      "ingredient_id": "coconut-oil"
+    },
+    {
+      "title": "chocolate whey protein powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "chocolate-whey-protein-powder"
+    },
+    {
+      "title": "ice",
+      "info": "1/4 cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "The best thing about this recipe is that it's healthy, keto-friendly and dairy free. The avocado isn't just for flavor - it also provides potassium, fiber, vitamin E & C!",
@@ -1635,7 +1977,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b5d"
+    "$oid": "62bc949f237b51e0a75f894f"
   },
   "name": "vanilla-bean-thickshake",
   "original_youtube_link": "https://youtube.com/shorts/px2ls7eXH_Y",
@@ -1646,10 +1988,34 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Vanilla+Bean+Thickshake.heic",
   "ingredients": [
     {
-      "title": "coconut",
-      "info": "1/2 banana. 1/3 cup coconut milk",
+      "title": "banana",
+      "info": "1/2",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "banana"
+    },
+    {
+      "title": "coconut milk",
+      "info": "1/3 cup",
+      "imgUrl": "",
+      "ingredient_id": "coconut-milk"
+    },
+    {
+      "title": "vanilla extract",
+      "info": "1 tsp",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-extract"
+    },
+    {
+      "title": "sea salt",
+      "info": "1 pinch",
+      "imgUrl": "",
+      "ingredient_id": "sea-salt"
+    },
+    {
+      "title": "whey protein",
+      "info": "1 scoop vanilla",
+      "imgUrl": "",
+      "ingredient_id": "whey-protein"
     }
   ],
   "overview": "Looking for a healthy keto smoothie option? This Vanilla Bean Thickshake is perfect! Made with almond milk, vanilla extract, and protein powder, it's a great way to start your day or refuel after a workout.",
@@ -1709,7 +2075,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b5e"
+    "$oid": "62bc949f237b51e0a75f8950"
   },
   "name": "coffee-&-banana-shake",
   "original_youtube_link": "https://youtube.com/shorts/0AwpAkvMuWY",
@@ -1722,10 +2088,28 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Coffee+Banana+Shake+.jpg",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "1 frozen banana",
+      "title": "espresso",
+      "info": "1/3 cup",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "espresso"
+    },
+    {
+      "title": "cocoa powder",
+      "info": "1 tbs",
+      "imgUrl": "",
+      "ingredient_id": "cocoa-powder"
+    },
+    {
+      "title": "frozen banana",
+      "info": "1",
+      "imgUrl": "",
+      "ingredient_id": "frozen-banana"
+    },
+    {
+      "title": "pitted dates",
+      "info": "2",
+      "imgUrl": "",
+      "ingredient_id": "pitted-dates"
     }
   ],
   "overview": "Greens, avocados and bananas will give you the nutrients needed to fuel your workout. This shake will keep you full for hours because of its high fiber content which in turn helps curb appetite.",
@@ -1785,7 +2169,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b5f"
+    "$oid": "62bc949f237b51e0a75f8951"
   },
   "name": "wild-berrie-zone",
   "original_youtube_link": "https://youtu.be/gfAFdLqEloE",
@@ -1798,26 +2182,38 @@
   "original_image_link": "https://drive.google.com/file/d/1e3QW9H_5skl5TwxTHdDxWhoAaS57DLKm/view?usp=sharing",
   "ingredients": [
     {
+      "title": "strawberries",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "strawberries"
+    },
+    {
       "title": "raspberries",
-      "info": "1/4 cup  raspberries",
+      "info": "1/4 cup",
       "imgUrl": "",
       "ingredient_id": "raspberries"
     },
     {
       "title": "blueberries",
-      "info": "1/2 cup blueberries",
+      "info": "1/2 cup",
       "imgUrl": "",
       "ingredient_id": "blueberries"
     },
     {
       "title": "blackberries",
-      "info": "1/4 cup blackberries",
+      "info": "1/4 cup",
       "imgUrl": "",
       "ingredient_id": "blackberries"
     },
     {
+      "title": "fat-free vanilla frozen yogurt",
+      "info": "1/2  cup",
+      "imgUrl": "",
+      "ingredient_id": "fat-free-vanilla-frozen-yogurt"
+    },
+    {
       "title": "cranberry juice",
-      "info": "1 cup cranberry juice",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "cranberry-juice"
     }
@@ -1879,7 +2275,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b60"
+    "$oid": "62bc949f237b51e0a75f8952"
   },
   "name": "blue-almond-fiesta",
   "original_youtube_link": "https://youtu.be/xCf5P5kwVY4",
@@ -1892,16 +2288,28 @@
   "original_image_link": "https://drive.google.com/file/d/1Ze-YbWApObI969WlMgaVMbFJOPLLxT99/view?usp=sharing",
   "ingredients": [
     {
+      "title": "almonds",
+      "info": "10",
+      "imgUrl": "",
+      "ingredient_id": "almonds"
+    },
+    {
       "title": "peanut butter",
-      "info": "1/2 cup blueberries,1 tablespoon peanut butter",
+      "info": "1/2 cup blueberries1 tablespoon",
       "imgUrl": "",
       "ingredient_id": "peanut-butter"
     },
     {
       "title": "soy milk",
-      "info": "1 cup soy milk",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "soy-milk"
+    },
+    {
+      "title": "fat-free vanilla frozen yogurt",
+      "info": "1/4 cup",
+      "imgUrl": "",
+      "ingredient_id": "fat-free-vanilla-frozen-yogurt"
     }
   ],
   "overview": "This quick and easy smoothie is packed with protein",
@@ -1960,7 +2368,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b61"
+    "$oid": "62bc949f237b51e0a75f8953"
   },
   "name": "blue-sky-shake",
   "original_youtube_link": "https://youtube.com/shorts/SZB0iwUo-hM",
@@ -1973,34 +2381,46 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Blue+Sky+Shake+.jpg",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "1 frozen banana",
+      "title": "frozen banana",
+      "info": "1",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
     },
     {
       "title": "blueberries",
-      "info": "1/4 cup blueberries",
+      "info": "1/4 cup",
       "imgUrl": "",
       "ingredient_id": "blueberries"
     },
     {
-      "title": "coconut",
-      "info": "1/2 cup coconut milk",
+      "title": "coconut milk",
+      "info": "1/2 cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "coconut-milk"
     },
     {
-      "title": "coconut",
-      "info": "2 tablespoons coconut yogurt",
+      "title": "coconut yogurt",
+      "info": "2 tablespoons",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "coconut-yogurt"
     },
     {
       "title": "honey",
-      "info": "1/2 teaspoon honey",
+      "info": "1/2 teaspoon",
       "imgUrl": "",
       "ingredient_id": "honey"
+    },
+    {
+      "title": "blue spirulina powder",
+      "info": "1/4 teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "blue-spirulina-powder"
+    },
+    {
+      "title": "vanilla rice protein powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-rice-protein-powder"
     }
   ],
   "overview": "This pretty, blue sky treat is not only delicious, but it's fun for everyone!",
@@ -2061,7 +2481,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b62"
+    "$oid": "62bc949f237b51e0a75f8954"
   },
   "name": "green-delite",
   "original_youtube_link": "https://youtu.be/rx5x5CuUG98",
@@ -2074,34 +2494,46 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=green+delight_Moment.jpg",
   "ingredients": [
     {
+      "title": "banana",
+      "info": "1 medium",
+      "imgUrl": "",
+      "ingredient_id": "banana"
+    },
+    {
       "title": "blueberries",
-      "info": "1/2 cup blueberries",
+      "info": "1/2 cup",
       "imgUrl": "",
       "ingredient_id": "blueberries"
     },
     {
       "title": "almonds",
-      "info": "4 almonds",
+      "info": "4",
       "imgUrl": "",
       "ingredient_id": "almonds"
     },
     {
       "title": "spinach",
-      "info": "1/2 cup spinach",
+      "info": "1/2 cup",
       "imgUrl": "",
       "ingredient_id": "spinach"
     },
     {
       "title": "kale",
-      "info": "1/2 cup kale",
+      "info": "1/2 cup",
       "imgUrl": "",
       "ingredient_id": "kale"
     },
     {
       "title": "coconut water",
-      "info": "1 cup coconut water",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "coconut-water"
+    },
+    {
+      "title": "ice",
+      "info": "3-4",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "it is a great immune boosting smoothie that’s quick and easy to make and it will leave you feeling full and satisfied.",
@@ -2160,7 +2592,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b63"
+    "$oid": "62bc949f237b51e0a75f8955"
   },
   "name": "smooth-banana-nut",
   "original_youtube_link": "https://youtu.be/8HUNzLbKNqQ",
@@ -2173,26 +2605,26 @@
   "original_image_link": "https://drive.google.com/file/d/1SYaKkxtgEaI6C76DT6dEDnZFF3XJG1R0/view?usp=sharing",
   "ingredients": [
     {
-      "title": "pecans",
-      "info": "1 medium Banana,¼ cup chopped pecans",
+      "title": "chopped pecans",
+      "info": "1 medium banana¼ cup",
       "imgUrl": "",
-      "ingredient_id": "pecans"
+      "ingredient_id": "chopped-pecans"
     },
     {
-      "title": "almonds",
-      "info": "¼ cup chopped almonds",
+      "title": "chopped almonds",
+      "info": "¼ cup",
       "imgUrl": "",
-      "ingredient_id": "almonds"
+      "ingredient_id": "chopped-almonds"
     },
     {
-      "title": "skim milk",
-      "info": "1/4 cup skim milk,¾ cup fat-free vanilla frozen yogurt",
+      "title": "fat-free vanilla frozen yogurt",
+      "info": "1/4 cup skim milk¾ cup",
       "imgUrl": "",
-      "ingredient_id": "skim-milk"
+      "ingredient_id": "fat-free-vanilla-frozen-yogurt"
     },
     {
       "title": "touch of honey",
-      "info": "a touch of honey (1 teaspoon)",
+      "info": "a  (1 teaspoon)",
       "imgUrl": "",
       "ingredient_id": "touch-of-honey"
     }
@@ -2254,7 +2686,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b64"
+    "$oid": "62bc949f237b51e0a75f8956"
   },
   "name": "raspberry-zinger-haven",
   "original_youtube_link": "https://youtu.be/4eK_gZzbzcY",
@@ -2267,16 +2699,28 @@
   "original_image_link": "https://drive.google.com/file/d/1g4dAJ9mICvjX36cEbXf_CRrkBJyS4sKe/view?usp=sharing",
   "ingredients": [
     {
+      "title": "raspberries",
+      "info": "1 cup",
+      "imgUrl": "",
+      "ingredient_id": "raspberries"
+    },
+    {
       "title": "banana",
-      "info": "1 small banana,1 lime",
+      "info": "1 small 1 lime",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
     {
       "title": "apple cider",
-      "info": "1 tablespoon apple cider",
+      "info": "1 tablespoon",
       "imgUrl": "",
       "ingredient_id": "apple-cider"
+    },
+    {
+      "title": "fat-free vanilla frozen yogurt",
+      "info": "1 cup",
+      "imgUrl": "",
+      "ingredient_id": "fat-free-vanilla-frozen-yogurt"
     }
   ],
   "overview": "it is perfect for cooling down on a hot day or as a post workout",
@@ -2335,7 +2779,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b65"
+    "$oid": "62bc949f237b51e0a75f8957"
   },
   "name": "no-bull-berry-light",
   "original_youtube_link": "https://youtu.be/9L0G0szeCMo",
@@ -2348,26 +2792,38 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=no+bull+berry_Moment.jpg",
   "ingredients": [
     {
+      "title": "strawberries",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "strawberries"
+    },
+    {
       "title": "raspberries",
-      "info": "1/2 cup raspberries",
+      "info": "1/2 cup",
       "imgUrl": "",
       "ingredient_id": "raspberries"
     },
     {
       "title": "blueberries",
-      "info": "1/2 cup blueberries",
+      "info": "1/2 cup",
       "imgUrl": "",
       "ingredient_id": "blueberries"
     },
     {
       "title": "soy milk",
-      "info": "1 cup soy milk",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "soy-milk"
     },
     {
+      "title": "fat-free vanilla frozen yogurt",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "fat-free-vanilla-frozen-yogurt"
+    },
+    {
       "title": "honey",
-      "info": "1 tablespoon honey",
+      "info": "1 tablespoon",
       "imgUrl": "",
       "ingredient_id": "honey"
     }
@@ -2429,7 +2885,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b66"
+    "$oid": "62bc949f237b51e0a75f8958"
   },
   "name": "strawberry-lemon-explosion",
   "original_youtube_link": "https://youtu.be/EWL2ZyjThKk",
@@ -2442,10 +2898,22 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=straberry+lemon+explosion_Moment.jpg",
   "ingredients": [
     {
+      "title": "strawberries",
+      "info": "1 cup",
+      "imgUrl": "",
+      "ingredient_id": "strawberries"
+    },
+    {
       "title": "fresh lemonade",
-      "info": "1/2 cup fresh lemonade",
+      "info": "1/2 cup",
       "imgUrl": "",
       "ingredient_id": "fresh-lemonade"
+    },
+    {
+      "title": "fat-free vanilla frozen yogurt",
+      "info": "1 cup",
+      "imgUrl": "",
+      "ingredient_id": "fat-free-vanilla-frozen-yogurt"
     }
   ],
   "overview": "Sweet, tangy and wonderfully refreshing smoothie",
@@ -2505,7 +2973,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b67"
+    "$oid": "62bc949f237b51e0a75f8959"
   },
   "name": "awesome-peanut-butter",
   "original_youtube_link": "https://youtu.be/DuQN7t0bkYM",
@@ -2518,16 +2986,28 @@
   "original_image_link": "https://drive.google.com/file/d/1o7crpTSGQHBQ1RRN1YLRQRy4NAgdMg5U/view?usp=sharing",
   "ingredients": [
     {
+      "title": "peanut butter",
+      "info": "1 tablespoon",
+      "imgUrl": "",
+      "ingredient_id": "peanut-butter"
+    },
+    {
       "title": "banana",
-      "info": "1 medium banana",
+      "info": "1 medium",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
     {
       "title": "skim milk",
-      "info": "1/2 cup skim milk",
+      "info": "1/2 cup",
       "imgUrl": "",
       "ingredient_id": "skim-milk"
+    },
+    {
+      "title": "fat-free vanilla frozen yogurt",
+      "info": "1/4 cup",
+      "imgUrl": "",
+      "ingredient_id": "fat-free-vanilla-frozen-yogurt"
     }
   ],
   "overview": "It's creamy, protein rich and filling for breakfast.",
@@ -2586,7 +3066,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b68"
+    "$oid": "62bc949f237b51e0a75f895a"
   },
   "name": "blueberry-pie-cloud",
   "original_youtube_link": "https://youtube.com/shorts/BVc-RKHFljQ",
@@ -2599,22 +3079,34 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Blueberry+Pie+Cloud+Smoothie.jpg",
   "ingredients": [
     {
+      "title": "blueberries",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "blueberries"
+    },
+    {
       "title": "raspberries",
-      "info": "1/2 cup raspberries",
+      "info": "1/2 cup",
       "imgUrl": "",
       "ingredient_id": "raspberries"
     },
     {
       "title": "granola",
-      "info": "1/2 cup granola",
+      "info": "1/2 cup",
       "imgUrl": "",
       "ingredient_id": "granola"
     },
     {
       "title": "pineapple juice",
-      "info": "1 cup pineapple juice",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "pineapple-juice"
+    },
+    {
+      "title": "fat-free vanilla frozen yogurt",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "fat-free-vanilla-frozen-yogurt"
     }
   ],
   "overview": "A delicious blend of berries, yoghurt & granola, makes a healthy breakfast, snack or dessert",
@@ -2675,7 +3167,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b69"
+    "$oid": "62bc949f237b51e0a75f895b"
   },
   "name": "hot-san-diego",
   "original_youtube_link": "https://youtu.be/Dm_bKBseIzU",
@@ -2688,14 +3180,20 @@
   "original_image_link": "https://drive.google.com/file/d/17AKUeiKXwGqNA3N_KhWAs-cORavIRFhp/view?usp=sharing",
   "ingredients": [
     {
+      "title": "strawberries",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "strawberries"
+    },
+    {
       "title": "banana",
-      "info": "1 small banana",
+      "info": "1 small",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
     {
       "title": "orange juice",
-      "info": "1 cup fresh-squeezed orange juice",
+      "info": "1 cup fresh-squeezed",
       "imgUrl": "",
       "ingredient_id": "orange-juice"
     }
@@ -2756,7 +3254,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b6a"
+    "$oid": "62bc949f237b51e0a75f895c"
   },
   "name": "baby-mango",
   "original_youtube_link": "https://youtu.be/wOYvlNQAOas",
@@ -2769,14 +3267,20 @@
   "original_image_link": "https://drive.google.com/file/d/1vgbSusam8HSBw8zbOTmJG6CmSc3bXRaB/view?usp=sharing",
   "ingredients": [
     {
+      "title": "mango",
+      "info": "1/2 cup  chopped",
+      "imgUrl": "",
+      "ingredient_id": "mango"
+    },
+    {
       "title": "pineapple",
-      "info": "1/2 cup chopped pineapple",
+      "info": "1/2 cup chopped",
       "imgUrl": "",
       "ingredient_id": "pineapple"
     },
     {
       "title": "orange juice",
-      "info": "1 cup fresh-squeezed orange juice",
+      "info": "1 cup fresh-squeezed",
       "imgUrl": "",
       "ingredient_id": "orange-juice"
     }
@@ -2837,7 +3341,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b6b"
+    "$oid": "62bc949f237b51e0a75f895d"
   },
   "name": "red-kiwi-brothers",
   "original_youtube_link": "https://youtu.be/RmPMGPJReR8",
@@ -2850,20 +3354,32 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=red+kiwi+brothers_Moment.jpg",
   "ingredients": [
     {
+      "title": "kiwi",
+      "info": "1",
+      "imgUrl": "",
+      "ingredient_id": "kiwi"
+    },
+    {
       "title": "strawberries",
-      "info": "6 strawberries",
+      "info": "6",
       "imgUrl": "",
       "ingredient_id": "strawberries"
     },
     {
       "title": "banana",
-      "info": "1 medium banana",
+      "info": "1 medium",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
     {
+      "title": "fat-free vanilla frozen yogurt",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "fat-free-vanilla-frozen-yogurt"
+    },
+    {
       "title": "apple cider",
-      "info": "1 tablespoon apple cider",
+      "info": "1 tablespoon",
       "imgUrl": "",
       "ingredient_id": "apple-cider"
     }
@@ -2925,7 +3441,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b6c"
+    "$oid": "62bc949f237b51e0a75f895e"
   },
   "name": "blue-oat-crunch",
   "original_youtube_link": "https://youtube.com/shorts/QLqqj1n_Tuk?feature=share",
@@ -2938,20 +3454,32 @@
   "original_image_link": "https://drive.google.com/file/d/1O2zdD4GR5Cl5s0ecV6ovb_WX1n9zaydN/view?usp=sharing",
   "ingredients": [
     {
+      "title": "blueberries",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "blueberries"
+    },
+    {
       "title": "banana",
-      "info": "1 medium banana",
+      "info": "1 medium",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
     {
       "title": "oat squares",
-      "info": "1/4 cup oat squares",
+      "info": "1/4 cup",
       "imgUrl": "",
       "ingredient_id": "oat-squares"
     },
     {
+      "title": "fat-free vanilla frozen yogurt",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "fat-free-vanilla-frozen-yogurt"
+    },
+    {
       "title": "apple juice",
-      "info": "1/4 cup apple juice",
+      "info": "1/4 cup",
       "imgUrl": "",
       "ingredient_id": "apple-juice"
     }
@@ -3012,7 +3540,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b6d"
+    "$oid": "62bc949f237b51e0a75f895f"
   },
   "name": "dirty-chicago",
   "original_youtube_link": "https://youtu.be/qif2gN68jS8",
@@ -3025,28 +3553,40 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Dirty+Chicago+Smoothie+.jpg",
   "ingredients": [
     {
+      "title": "mango",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "mango"
+    },
+    {
       "title": "banana",
-      "info": "1 small banana",
+      "info": "1 small",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
     {
       "title": "coconut",
-      "info": "1/4 cup coconut",
+      "info": "1/4 cup",
       "imgUrl": "",
       "ingredient_id": "coconut"
     },
     {
       "title": "pineapple juice",
-      "info": "1/2 cup pineapple juice",
+      "info": "1/2 cup",
       "imgUrl": "",
       "ingredient_id": "pineapple-juice"
     },
     {
       "title": "orange juice",
-      "info": "1/2 cup orange juice",
+      "info": "1/2 cup",
       "imgUrl": "",
       "ingredient_id": "orange-juice"
+    },
+    {
+      "title": "fat-free vanilla frozen yogurt",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "fat-free-vanilla-frozen-yogurt"
     }
   ],
   "overview": "Enriched with fresh mango, coconut, banana, and pineapple and orange juice smoothie is a nutritious tropical delight for the taste buds.",
@@ -3107,7 +3647,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b6e"
+    "$oid": "62bc949f237b51e0a75f8960"
   },
   "name": "wild-mambo",
   "original_youtube_link": "https://youtu.be/68NfSVlY060",
@@ -3120,20 +3660,26 @@
   "original_image_link": "https://drive.google.com/file/d/16c6q3Oso1V_0b0i59_SiyGcikrHOKe3c/view?usp=sharing",
   "ingredients": [
     {
+      "title": "strawberries",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "strawberries"
+    },
+    {
       "title": "organic pineapple",
-      "info": "1/2 cup organic pineapple",
+      "info": "1/2 cup",
       "imgUrl": "",
       "ingredient_id": "organic-pineapple"
     },
     {
       "title": "orange juice",
-      "info": "1 cup orange juice",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "orange-juice"
     },
     {
       "title": "coconut cream",
-      "info": "1/4 cup coconut cream",
+      "info": "1/4 cup",
       "imgUrl": "",
       "ingredient_id": "coconut-cream"
     }
@@ -3194,7 +3740,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b6f"
+    "$oid": "62bc949f237b51e0a75f8961"
   },
   "name": "sky-mango",
   "original_youtube_link": "https://youtu.be/8CtwcgTpufk",
@@ -3207,8 +3753,26 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=sky+mango_Moment.jpg",
   "ingredients": [
     {
+      "title": "blueberries",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "blueberries"
+    },
+    {
+      "title": "chopped medium peach",
+      "info": "1",
+      "imgUrl": "",
+      "ingredient_id": "chopped-medium-peach"
+    },
+    {
+      "title": "mango",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "mango"
+    },
+    {
       "title": "cranberry juice",
-      "info": "1 chopped medium peach,1/2 cup  mango,1 cup cranberry juice",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "cranberry-juice"
     }
@@ -3269,7 +3833,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b70"
+    "$oid": "62bc949f237b51e0a75f8962"
   },
   "name": "fruity-fuschia",
   "original_youtube_link": "https://youtube.com/shorts/v2Nkc66g8Bk",
@@ -3282,22 +3846,28 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Fuity+Fuschia+Smoothie+.jpg",
   "ingredients": [
     {
-      "title": "raspberries",
-      "info": "½ cup frozen raspberries",
+      "title": "frozen raspberries",
+      "info": "½ cup",
       "imgUrl": "",
-      "ingredient_id": "raspberries"
+      "ingredient_id": "frozen-raspberries"
     },
     {
-      "title": "strawberries",
-      "info": "½ cup frozen strawberries",
+      "title": "frozen strawberries",
+      "info": "½ cup",
       "imgUrl": "",
-      "ingredient_id": "strawberries"
+      "ingredient_id": "frozen-strawberries"
     },
     {
-      "title": "coconut",
-      "info": "¼ cup coconut milk",
+      "title": "coconut milk",
+      "info": "¼ cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "coconut-milk"
+    },
+    {
+      "title": "ice",
+      "info": "½ cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "Get ready for this bright pink superfood smoothie that has tons of healthy vitamins and minerals.",
@@ -3357,7 +3927,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b71"
+    "$oid": "62bc949f237b51e0a75f8963"
   },
   "name": "honey-b*tch",
   "original_youtube_link": "https://youtu.be/q1tFVmbEmI8",
@@ -3370,20 +3940,26 @@
   "original_image_link": "https://drive.google.com/file/d/1WmBsBEngYOKlpdY6e6AtW-Yv7pErJHEZ/view?usp=sharing",
   "ingredients": [
     {
+      "title": "honey",
+      "info": "1 teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "honey"
+    },
+    {
       "title": "peach",
-      "info": "3/4 cup peach",
+      "info": "3/4 cup",
       "imgUrl": "",
       "ingredient_id": "peach"
     },
     {
       "title": "banana",
-      "info": "1 small banana",
+      "info": "1 small",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
     {
       "title": "apple juice",
-      "info": "1 cup apple juice",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "apple-juice"
     }
@@ -3444,7 +4020,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b72"
+    "$oid": "62bc949f237b51e0a75f8964"
   },
   "name": "hyper-tropical-blast",
   "original_youtube_link": "https://youtu.be/QDdt6Mv4jeI",
@@ -3513,7 +4089,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b73"
+    "$oid": "62bc949f237b51e0a75f8965"
   },
   "name": "my-oasis",
   "original_youtube_link": "https://youtu.be/0eABUUb_zww",
@@ -3526,22 +4102,28 @@
   "original_image_link": "https://drive.google.com/file/d/1evVtgZYktL3WrnVW9rNMU2eFyqkdqNJX/view?usp=sharing",
   "ingredients": [
     {
+      "title": "blueberries",
+      "info": "1/4 cup",
+      "imgUrl": "",
+      "ingredient_id": "blueberries"
+    },
+    {
       "title": "banana",
-      "info": "1 medium banana",
+      "info": "1 medium",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
     {
       "title": "mango",
-      "info": "1 cup mango",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "mango"
     },
     {
-      "title": "orange juice",
-      "info": "1 cuporange juice",
+      "title": "cuporange juice",
+      "info": "1",
       "imgUrl": "",
-      "ingredient_id": "orange-juice"
+      "ingredient_id": "cuporange-juice"
     }
   ],
   "overview": "It is a delicious and healthy choice to have for breakfast",
@@ -3600,7 +4182,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b74"
+    "$oid": "62bc949f237b51e0a75f8966"
   },
   "name": "inflamation-fighter-and-mood-booster",
   "original_youtube_link": "https://youtube.com/shorts/gMLZuF-mOSU",
@@ -3614,13 +4196,31 @@
   "ingredients": [
     {
       "title": "pineapple",
-      "info": "1 ½ cup pineapple",
+      "info": "1 ½ cup",
       "imgUrl": "",
       "ingredient_id": "pineapple"
     },
     {
+      "title": "passion fruit",
+      "info": "½ pc  (or 2 teaspoon passion fruit pulp)",
+      "imgUrl": "",
+      "ingredient_id": "passion-fruit"
+    },
+    {
+      "title": "lemon balm leaves",
+      "info": "1 tablespoon  (without stems)",
+      "imgUrl": "",
+      "ingredient_id": "lemon-balm-leaves"
+    },
+    {
+      "title": "chia seeds",
+      "info": "1 teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "chia-seeds"
+    },
+    {
       "title": "orange juice",
-      "info": "1 ½ tablespoon (20 ml) freshly squeezed orange juice",
+      "info": "1 ½ tablespoon (20 ml) freshly squeezed",
       "imgUrl": "",
       "ingredient_id": "orange-juice"
     }
@@ -3686,7 +4286,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b75"
+    "$oid": "62bc949f237b51e0a75f8967"
   },
   "name": "papaya-queen",
   "original_youtube_link": "https://youtu.be/2oEa92si8xo",
@@ -3699,16 +4299,34 @@
   "original_image_link": "https://drive.google.com/file/d/1tsObQ4xmmKC_1LGyNkQOUTfndVgwDhos/view?usp=sharing",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "1 pc frozen banana",
+      "title": "papaya",
+      "info": "¼ pc  (ca 150 g)",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "papaya"
+    },
+    {
+      "title": "frozen banana",
+      "info": "1 pc",
+      "imgUrl": "",
+      "ingredient_id": "frozen-banana"
+    },
+    {
+      "title": "passion fruit",
+      "info": "1 pc",
+      "imgUrl": "",
+      "ingredient_id": "passion-fruit"
     },
     {
       "title": "orange juice",
-      "info": "1 ½ tablespoon (ca 20 ml) freshly squeezed orange juice",
+      "info": "1 ½ tablespoon (ca 20 ml) freshly squeezed",
       "imgUrl": "",
       "ingredient_id": "orange-juice"
+    },
+    {
+      "title": "passion fruit",
+      "info": "for garnishing",
+      "imgUrl": "",
+      "ingredient_id": "passion-fruit"
     }
   ],
   "overview": "This smoothie is anti-inflammatory, supports digestion and blood sugar regulation",
@@ -3770,7 +4388,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b76"
+    "$oid": "62bc949f237b51e0a75f8968"
   },
   "name": "garden-in-a-cup",
   "original_youtube_link": "https://youtube.com/shorts/0HBxTzgaECc",
@@ -3784,9 +4402,27 @@
   "ingredients": [
     {
       "title": "spinach",
-      "info": "1 cup spinach",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "spinach"
+    },
+    {
+      "title": "lime juice",
+      "info": "½",
+      "imgUrl": "",
+      "ingredient_id": "lime-juice"
+    },
+    {
+      "title": "avocado",
+      "info": "½",
+      "imgUrl": "",
+      "ingredient_id": "avocado"
+    },
+    {
+      "title": "ice",
+      "info": "1 cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "Many fruits and vegetables are used in this shake to give you a nutrient and energy boost!",
@@ -3846,7 +4482,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b77"
+    "$oid": "62bc949f237b51e0a75f8969"
   },
   "name": "citrus-green-berry-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/cVBd4zMrY1I",
@@ -3859,22 +4495,46 @@
   "original_image_link": "https://drive.google.com/file/d/1Us2QMSarTAiPrfQoyzb7fMKLDC5Okajs/view?usp=sharing",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "½ frozen banana",
+      "title": "frozen banana",
+      "info": "½",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
     },
     {
       "title": "strawberries",
-      "info": "½ cup strawberries",
+      "info": "½ cup",
       "imgUrl": "",
       "ingredient_id": "strawberries"
     },
     {
+      "title": "orange",
+      "info": "½",
+      "imgUrl": "",
+      "ingredient_id": "orange"
+    },
+    {
+      "title": "avocado",
+      "info": "¼",
+      "imgUrl": "",
+      "ingredient_id": "avocado"
+    },
+    {
       "title": "spinach",
-      "info": "1 cup spinach",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "spinach"
+    },
+    {
+      "title": "chia seeds",
+      "info": "1 tbs",
+      "imgUrl": "",
+      "ingredient_id": "chia-seeds"
+    },
+    {
+      "title": "ice",
+      "info": "1 cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "Here's a simple, fresh, and creamy smoothie that is an awesome source of fiber, vitamins, minerals, and omega-3's.",
@@ -3934,7 +4594,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b78"
+    "$oid": "62bc949f237b51e0a75f896a"
   },
   "name": "chocolate-java",
   "original_youtube_link": "https://youtu.be/ZwverA6hOmo",
@@ -3947,10 +4607,34 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=chocolate+java_Moment.jpg",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "1 frozen banana",
+      "title": "cocoa powder",
+      "info": "1 tbs",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "cocoa-powder"
+    },
+    {
+      "title": "frozen banana",
+      "info": "1",
+      "imgUrl": "",
+      "ingredient_id": "frozen-banana"
+    },
+    {
+      "title": "medjool date",
+      "info": "1",
+      "imgUrl": "",
+      "ingredient_id": "medjool-date"
+    },
+    {
+      "title": "scoop chocolate oat protein powder",
+      "info": "1",
+      "imgUrl": "",
+      "ingredient_id": "scoop-chocolate-oat-protein-powder"
+    },
+    {
+      "title": "ice",
+      "info": "½ cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "This coffee protein shake is packed with delicious flavor and will give you tons of energy!",
@@ -4010,7 +4694,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b79"
+    "$oid": "62bc949f237b51e0a75f896b"
   },
   "name": "blue-dream",
   "original_youtube_link": "https://youtu.be/m_uXcNQeLkc",
@@ -4023,16 +4707,28 @@
   "original_image_link": "https://drive.google.com/file/d/1suBC14kGQp4omlEE8W8aZ3v-wvI5VSnS/view?usp=sharing",
   "ingredients": [
     {
-      "title": "blueberries",
-      "info": "1 cup frozen blueberries",
+      "title": "frozen blueberries",
+      "info": "1 cup",
       "imgUrl": "",
-      "ingredient_id": "blueberries"
+      "ingredient_id": "frozen-blueberries"
     },
     {
-      "title": "banana",
-      "info": "½ frozen banana",
+      "title": "frozen banana",
+      "info": "½",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
+    },
+    {
+      "title": "greek yogurt",
+      "info": "½ cup",
+      "imgUrl": "",
+      "ingredient_id": "greek-yogurt"
+    },
+    {
+      "title": "ice",
+      "info": "½ cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "This creamy light blue smoothie is more than beautiful- it's packed with beautifying antioxidants and muscle-building protein.",
@@ -4092,7 +4788,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b7a"
+    "$oid": "62bc949f237b51e0a75f896c"
   },
   "name": "happy-hour-pineapple-paradise",
   "original_youtube_link": "https://youtube.com/shorts/g4qJYQlKRug",
@@ -4105,26 +4801,38 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Happy+Hour+Pineapple+Paradise+Smoothie.jpg",
   "ingredients": [
     {
+      "title": "pineapple",
+      "info": "½ cup",
+      "imgUrl": "",
+      "ingredient_id": "pineapple"
+    },
+    {
       "title": "banana",
-      "info": "1small banana",
+      "info": "1small",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
     {
       "title": "coconut",
-      "info": "1 tablespoon coconut",
+      "info": "1 tablespoon",
       "imgUrl": "",
       "ingredient_id": "coconut"
     },
     {
+      "title": "fat-free vanilla frozen yogurt",
+      "info": "1 cup",
+      "imgUrl": "",
+      "ingredient_id": "fat-free-vanilla-frozen-yogurt"
+    },
+    {
       "title": "apple cider",
-      "info": "1 tablespoon apple cider",
+      "info": "1 tablespoon",
       "imgUrl": "",
       "ingredient_id": "apple-cider"
     },
     {
       "title": "pineapple juice",
-      "info": "½ cup pineapple juice",
+      "info": "½ cup",
       "imgUrl": "",
       "ingredient_id": "pineapple-juice"
     }
@@ -4186,7 +4894,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b7b"
+    "$oid": "62bc949f237b51e0a75f896d"
   },
   "name": "creamy-green",
   "original_youtube_link": "https://youtube.com/shorts/rDS0iHPvmJk",
@@ -4199,22 +4907,40 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Creamy+Green+Smoothie.jpg",
   "ingredients": [
     {
+      "title": "avocado",
+      "info": "1/3",
+      "imgUrl": "",
+      "ingredient_id": "avocado"
+    },
+    {
       "title": "spinach",
-      "info": "1 cup spinach",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "spinach"
     },
     {
-      "title": "coconut",
-      "info": "½ cup coconut milk",
+      "title": "coconut milk",
+      "info": "½ cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "coconut-milk"
     },
     {
       "title": "pineapple",
-      "info": "¼ cup frozen pineapple",
+      "info": "¼ cup frozen",
       "imgUrl": "",
       "ingredient_id": "pineapple"
+    },
+    {
+      "title": "vanilla plant-based protein powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-plant-based-protein-powder"
+    },
+    {
+      "title": "ice",
+      "info": "½ cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "Looking for a way to make those veggies taste better? This creamy green smoothie is packed with healthy veggies and deliciois flavor!",
@@ -4274,7 +5000,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b7c"
+    "$oid": "62bc949f237b51e0a75f896e"
   },
   "name": "coconut-carrot-and-ginger",
   "original_youtube_link": "https://youtube.com/shorts/se6hTrZZ5vE",
@@ -4287,22 +5013,46 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Coconut+Carrot+%26+Ginger+-+Smoothie+.jpg",
   "ingredients": [
     {
+      "title": "carrot",
+      "info": "1",
+      "imgUrl": "",
+      "ingredient_id": "carrot"
+    },
+    {
       "title": "pineapple",
-      "info": "½ cup frozen pineapple",
+      "info": "½ cup frozen",
       "imgUrl": "",
       "ingredient_id": "pineapple"
     },
     {
+      "title": "ginger",
+      "info": "2 tbs",
+      "imgUrl": "",
+      "ingredient_id": "ginger"
+    },
+    {
+      "title": "water",
+      "info": "¼ cup",
+      "imgUrl": "",
+      "ingredient_id": "water"
+    },
+    {
       "title": "spinach",
-      "info": "1 cup spinach",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "spinach"
     },
     {
       "title": "coconut cream",
-      "info": "½ cup light coconut cream",
+      "info": "½ cup light",
       "imgUrl": "",
       "ingredient_id": "coconut-cream"
+    },
+    {
+      "title": "ice",
+      "info": "½ cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "If you love ginger, this vitamin-A packed smoothie is for you!",
@@ -4362,7 +5112,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b7d"
+    "$oid": "62bc949f237b51e0a75f896f"
   },
   "name": "chocolate-elvis",
   "original_youtube_link": "https://youtube.com/shorts/fELcr6qVvso",
@@ -4375,22 +5125,40 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=chocolate+Elvis_Moment.jpg",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "½ frozen banana",
+      "title": "frozen banana",
+      "info": "½",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
     },
     {
-      "title": "coconut",
-      "info": "½ cup coconut yogurt",
+      "title": "cocoa powder",
+      "info": "1 tablespoon",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "cocoa-powder"
+    },
+    {
+      "title": "coconut yogurt",
+      "info": "½ cup",
+      "imgUrl": "",
+      "ingredient_id": "coconut-yogurt"
     },
     {
       "title": "peanut butter",
-      "info": "1 tablespoon peanut butter",
+      "info": "1 tablespoon",
       "imgUrl": "",
       "ingredient_id": "peanut-butter"
+    },
+    {
+      "title": "rice protein powder",
+      "info": "1 scoop chocolate",
+      "imgUrl": "",
+      "ingredient_id": "rice-protein-powder"
+    },
+    {
+      "title": "ice",
+      "info": "¼  cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "Enjoy this peanut butter, banana, and chocolate classic after your workout for it's energy boost and muscle building action!",
@@ -4450,7 +5218,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b7e"
+    "$oid": "62bc949f237b51e0a75f8970"
   },
   "name": "peanut-butter-cup",
   "original_youtube_link": "https://youtube.com/shorts/_3730k0zvnU",
@@ -4464,9 +5232,33 @@
   "ingredients": [
     {
       "title": "peanut butter",
-      "info": "1 tablespoon peanut butter",
+      "info": "1 tablespoon",
       "imgUrl": "",
       "ingredient_id": "peanut-butter"
+    },
+    {
+      "title": "avocado",
+      "info": "½",
+      "imgUrl": "",
+      "ingredient_id": "avocado"
+    },
+    {
+      "title": "cocoa powder",
+      "info": "1 tablespoon",
+      "imgUrl": "",
+      "ingredient_id": "cocoa-powder"
+    },
+    {
+      "title": "vanilla extract",
+      "info": "½  teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-extract"
+    },
+    {
+      "title": "whey protein",
+      "info": "1 scoop chocolate",
+      "imgUrl": "",
+      "ingredient_id": "whey-protein"
     }
   ],
   "overview": "Love chocolate and peanut butter? This classic combo comes together in this post-workout shake.",
@@ -4526,7 +5318,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b7f"
+    "$oid": "62bc949f237b51e0a75f8971"
   },
   "name": "birthday-cake-shake",
   "original_youtube_link": "https://youtube.com/shorts/6D0v_icE6wU",
@@ -4540,9 +5332,39 @@
   "ingredients": [
     {
       "title": "coconut cream",
-      "info": "3 tablespoons coconut cream",
+      "info": "3 tablespoons",
       "imgUrl": "",
       "ingredient_id": "coconut-cream"
+    },
+    {
+      "title": "cashew butter",
+      "info": "2 tablespoons",
+      "imgUrl": "",
+      "ingredient_id": "cashew-butter"
+    },
+    {
+      "title": "vanilla extract",
+      "info": "½  teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-extract"
+    },
+    {
+      "title": "whey protein",
+      "info": "1 scoop vanilla",
+      "imgUrl": "",
+      "ingredient_id": "whey-protein"
+    },
+    {
+      "title": "ice",
+      "info": "½  cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
+    },
+    {
+      "title": "sprinkles",
+      "info": "1 teaspoons",
+      "imgUrl": "",
+      "ingredient_id": "sprinkles"
     }
   ],
   "overview": "Get ready for a keto birthday surprise! This colorful shake is perfect after a workout to replenish your muscles.",
@@ -4602,7 +5424,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b80"
+    "$oid": "62bc949f237b51e0a75f8972"
   },
   "name": "chocolate-coconut",
   "original_youtube_link": "https://youtube.com/shorts/F_R-Ot9swsY",
@@ -4615,16 +5437,46 @@
   "original_image_link": "https://drive.google.com/file/d/1jSGe45pMPhhDWU1Jc1Kxs0in8_MF0Swd/view?usp=sharing",
   "ingredients": [
     {
-      "title": "coconut",
-      "info": "½  cup light coconut milk",
+      "title": "light coconut milk",
+      "info": "½  cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "light-coconut-milk"
     },
     {
-      "title": "coconut",
-      "info": "1 tablespoon coconut flakes",
+      "title": "cocoa powder",
+      "info": "1 tablespoon",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "cocoa-powder"
+    },
+    {
+      "title": "avocado",
+      "info": "½",
+      "imgUrl": "",
+      "ingredient_id": "avocado"
+    },
+    {
+      "title": "coconut flakes",
+      "info": "1 tablespoon",
+      "imgUrl": "",
+      "ingredient_id": "coconut-flakes"
+    },
+    {
+      "title": "cocoa nibs",
+      "info": "1 tablespoon",
+      "imgUrl": "",
+      "ingredient_id": "cocoa-nibs"
+    },
+    {
+      "title": "vanilla extract",
+      "info": "½  teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-extract"
+    },
+    {
+      "title": "whey protein",
+      "info": "1 scoop chocolate",
+      "imgUrl": "",
+      "ingredient_id": "whey-protein"
     }
   ],
   "overview": "Chocolate and coconut come together to provide muscle building protein in a keto-friendly shake.",
@@ -4684,7 +5536,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b81"
+    "$oid": "62bc949f237b51e0a75f8973"
   },
   "name": "nutty-butter",
   "original_youtube_link": "https://youtube.com/shorts/yermABtD8rs",
@@ -4698,19 +5550,25 @@
   "ingredients": [
     {
       "title": "peanut butter",
-      "info": "1 tablespoon peanut butter",
+      "info": "1 tablespoon",
       "imgUrl": "",
       "ingredient_id": "peanut-butter"
     },
     {
-      "title": "banana",
-      "info": "1 frozen banana",
+      "title": "frozen banana",
+      "info": "1",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
+    },
+    {
+      "title": "ice",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     },
     {
       "title": "peanut butter",
-      "info": "1 scoop peanut butter plant-based protein",
+      "info": "1 scoop  plant-based protein",
       "imgUrl": "",
       "ingredient_id": "peanut-butter"
     }
@@ -4772,7 +5630,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b82"
+    "$oid": "62bc949f237b51e0a75f8974"
   },
   "name": "hawaiian-breeze-splash",
   "original_youtube_link": "https://youtube.com/shorts/Ju5hDF_3UPc",
@@ -4785,26 +5643,32 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=hawaiian+breeze+splash+Smoothie+.jpg",
   "ingredients": [
     {
+      "title": "blueberries",
+      "info": "¼  cup",
+      "imgUrl": "",
+      "ingredient_id": "blueberries"
+    },
+    {
       "title": "banana",
-      "info": "1 medium banana",
+      "info": "1 medium",
       "imgUrl": "",
       "ingredient_id": "banana"
     },
     {
       "title": "coconut",
-      "info": "½  cup coconut",
+      "info": "½  cup",
       "imgUrl": "",
       "ingredient_id": "coconut"
     },
     {
       "title": "mango",
-      "info": "½  cup mango",
+      "info": "½  cup",
       "imgUrl": "",
       "ingredient_id": "mango"
     },
     {
       "title": "pineapple juice",
-      "info": "1 cup pineapple juice",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "pineapple-juice"
     }
@@ -4865,7 +5729,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b83"
+    "$oid": "62bc949f237b51e0a75f8975"
   },
   "name": "vanilla-bean",
   "original_youtube_link": "https://youtube.com/shorts/3hfr4CGRcas",
@@ -4878,10 +5742,28 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Vanilla+bean_Moment.jpg",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "1 frozen banana",
+      "title": "frozen banana",
+      "info": "1",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
+    },
+    {
+      "title": "vanilla extract",
+      "info": "1 teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-extract"
+    },
+    {
+      "title": "cashew butter",
+      "info": "½ tablespoon",
+      "imgUrl": "",
+      "ingredient_id": "cashew-butter"
+    },
+    {
+      "title": "maple syrup",
+      "info": "½ teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "maple-syrup"
     }
   ],
   "overview": "Here's a creamy, plant-based shake packed with sweet flavor and lots of protein!",
@@ -4941,7 +5823,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b84"
+    "$oid": "62bc949f237b51e0a75f8976"
   },
   "name": "matcha-blend-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/hF5lZCgi_YA",
@@ -4954,22 +5836,34 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Matcha+blend+smoothie.jpg",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "½ cup frozen banana chunks",
+      "title": "frozen banana chunks",
+      "info": "½ cup",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana-chunks"
     },
     {
-      "title": "mango",
-      "info": "½ cup frozen mango",
+      "title": "frozen mango",
+      "info": "½ cup",
       "imgUrl": "",
-      "ingredient_id": "mango"
+      "ingredient_id": "frozen-mango"
     },
     {
       "title": "spinach",
-      "info": "½ cup spinach",
+      "info": "½ cup",
       "imgUrl": "",
       "ingredient_id": "spinach"
+    },
+    {
+      "title": "avocado",
+      "info": "½",
+      "imgUrl": "",
+      "ingredient_id": "avocado"
+    },
+    {
+      "title": "oat milk",
+      "info": "½ cup",
+      "imgUrl": "",
+      "ingredient_id": "oat-milk"
     }
   ],
   "overview": "Matcha is a green tea powder that is known for its many health benefits. Enjoy it in a delicious, creamy smoothie!",
@@ -5029,7 +5923,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b85"
+    "$oid": "62bc949f237b51e0a75f8977"
   },
   "name": "mixed-berry-replenisher",
   "original_youtube_link": "https://youtube.com/shorts/X7FRKIn6Uu8",
@@ -5042,16 +5936,28 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Mixed+berry+replenisher+smoothie+.jpg",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "½ frozen banana",
+      "title": "frozen mixed berries",
+      "info": "1 cup",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-mixed-berries"
+    },
+    {
+      "title": "frozen banana",
+      "info": "½",
+      "imgUrl": "",
+      "ingredient_id": "frozen-banana"
     },
     {
       "title": "coconut water",
-      "info": "1 cup coconut water",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "coconut-water"
+    },
+    {
+      "title": "ice",
+      "info": "½ cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "Replenish your body with tons of fiber, antioxidants, protein, and energy from this mixed berry shake!",
@@ -5111,7 +6017,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b86"
+    "$oid": "62bc949f237b51e0a75f8978"
   },
   "name": "chocolate-fudge",
   "original_youtube_link": "https://youtube.com/shorts/4tZKvDnbXh8",
@@ -5124,10 +6030,28 @@
   "original_image_link": "https://drive.google.com/file/d/1yW8gqZ0uviRFWUZQtIJSu9gL_d9_UKJX/view?usp=sharing",
   "ingredients": [
     {
-      "title": "coconut",
-      "info": "1/2 cup light coconut milk",
+      "title": "avocado",
+      "info": "1/3",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "avocado"
+    },
+    {
+      "title": "light coconut milk",
+      "info": "1/2 cup",
+      "imgUrl": "",
+      "ingredient_id": "light-coconut-milk"
+    },
+    {
+      "title": "cocoa powder",
+      "info": "2 tablespoons",
+      "imgUrl": "",
+      "ingredient_id": "cocoa-powder"
+    },
+    {
+      "title": "ice",
+      "info": "1 cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
     }
   ],
   "overview": "Delicious, fudgey, and perfectly sweet, this chocolate fudge shake is the perfect healthy meal replacement.",
@@ -5187,7 +6111,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b87"
+    "$oid": "62bc949f237b51e0a75f8979"
   },
   "name": "blueberry-pie",
   "original_youtube_link": "https://youtube.com/shorts/7yqLZhX9_KA",
@@ -5200,10 +6124,34 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Blueberry+Pie+-+Smoothie.jpg",
   "ingredients": [
     {
-      "title": "blueberries",
-      "info": "½ cup frozen blueberries",
+      "title": "frozen blueberries",
+      "info": "½ cup",
       "imgUrl": "",
-      "ingredient_id": "blueberries"
+      "ingredient_id": "frozen-blueberries"
+    },
+    {
+      "title": "chia seeds",
+      "info": "2 tablespoon",
+      "imgUrl": "",
+      "ingredient_id": "chia-seeds"
+    },
+    {
+      "title": "almond butter",
+      "info": "1 tablespoon",
+      "imgUrl": "",
+      "ingredient_id": "almond-butter"
+    },
+    {
+      "title": "cinnamon",
+      "info": "½ teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "cinnamon"
+    },
+    {
+      "title": "vanilla extract",
+      "info": "½ teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-extract"
     }
   ],
   "overview": "Get all of the classic flavors of blueberry pie in a yummy, healthy smoothie!",
@@ -5263,7 +6211,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b88"
+    "$oid": "62bc949f237b51e0a75f897a"
   },
   "name": "banana-almond-shake",
   "original_youtube_link": "https://youtube.com/shorts/ivNFCcCoH-s",
@@ -5276,20 +6224,32 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Banana+almond+shake+.jpg",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "1 frozen banana",
+      "title": "frozen banana",
+      "info": "1",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
     },
     {
-      "title": "coconut",
-      "info": "¼ cup coconut yogurt",
+      "title": "almond butter",
+      "info": "1 tablespoon",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "almond-butter"
+    },
+    {
+      "title": "ice",
+      "info": "½ cup",
+      "imgUrl": "",
+      "ingredient_id": "ice"
+    },
+    {
+      "title": "coconut yogurt",
+      "info": "¼ cup",
+      "imgUrl": "",
+      "ingredient_id": "coconut-yogurt"
     },
     {
       "title": "honey",
-      "info": "½ teaspoon honey",
+      "info": "½ teaspoon",
       "imgUrl": "",
       "ingredient_id": "honey"
     }
@@ -5351,7 +6311,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b89"
+    "$oid": "62bc949f237b51e0a75f897b"
   },
   "name": "golden-shake",
   "original_youtube_link": "https://youtube.com/shorts/6za8bxAK9R4",
@@ -5364,22 +6324,34 @@
   "original_image_link": "https://drive.google.com/file/d/19n6y3C1ICYBWTPY6E1-DvGzNRtZMW8_G/view?usp=sharing",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "½ frozen banana",
+      "title": "frozen banana",
+      "info": "½",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
     },
     {
-      "title": "pineapple",
-      "info": "½ cup frozen pineapple chunks",
+      "title": "frozen pineapple chunks",
+      "info": "½ cup",
       "imgUrl": "",
-      "ingredient_id": "pineapple"
+      "ingredient_id": "frozen-pineapple-chunks"
     },
     {
-      "title": "coconut",
-      "info": "1 cup coconut milk",
+      "title": "chia seeds",
+      "info": "1 tbs",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "chia-seeds"
+    },
+    {
+      "title": "coconut milk",
+      "info": "1 cup",
+      "imgUrl": "",
+      "ingredient_id": "coconut-milk"
+    },
+    {
+      "title": "turmeric",
+      "info": "1 tbs",
+      "imgUrl": "",
+      "ingredient_id": "turmeric"
     }
   ],
   "overview": "Known for its golden color, turmeric is used in the shake not only for beauty but for it's anti-inflammatory benefits",
@@ -5439,7 +6411,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b8a"
+    "$oid": "62bc949f237b51e0a75f897c"
   },
   "name": "passion-fruit-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/ltxpq9cIuw8",
@@ -5453,9 +6425,33 @@
   "ingredients": [
     {
       "title": "banana",
-      "info": "1 ½ banana",
+      "info": "1 ½",
       "imgUrl": "",
       "ingredient_id": "banana"
+    },
+    {
+      "title": "passion fruit",
+      "info": "½ pc",
+      "imgUrl": "",
+      "ingredient_id": "passion-fruit"
+    },
+    {
+      "title": "bok choy",
+      "info": "50gr",
+      "imgUrl": "",
+      "ingredient_id": "bok-choy"
+    },
+    {
+      "title": "lime juice",
+      "info": "½ teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "lime-juice"
+    },
+    {
+      "title": "water",
+      "info": "1 tablespon",
+      "imgUrl": "",
+      "ingredient_id": "water"
     }
   ],
   "overview": "This smothie is great for fast hydration and can be a great snack in between meals, before or after training. It also helps to prevent diabetes and heart diseases.",
@@ -5519,7 +6515,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b8b"
+    "$oid": "62bc949f237b51e0a75f897d"
   },
   "name": "rainbow-shake",
   "original_youtube_link": "https://youtube.com/shorts/o8iAfcjYD-E",
@@ -5532,28 +6528,40 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Rainbow+Shake.jpg",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "½ frozen banana",
+      "title": "avocado",
+      "info": "¼",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "avocado"
+    },
+    {
+      "title": "frozen banana",
+      "info": "½",
+      "imgUrl": "",
+      "ingredient_id": "frozen-banana"
     },
     {
       "title": "blackberries",
-      "info": "¼ cup frozen blackberries",
+      "info": "¼ cup frozen",
       "imgUrl": "",
       "ingredient_id": "blackberries"
     },
     {
-      "title": "mango",
-      "info": "¼ cup frozen mango",
+      "title": "frozen mango",
+      "info": "¼ cup",
       "imgUrl": "",
-      "ingredient_id": "mango"
+      "ingredient_id": "frozen-mango"
     },
     {
-      "title": "raspberries",
-      "info": "¼ cup frozen raspberries",
+      "title": "frozen raspberries",
+      "info": "¼ cup",
       "imgUrl": "",
-      "ingredient_id": "raspberries"
+      "ingredient_id": "frozen-raspberries"
+    },
+    {
+      "title": "rice protein powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "rice-protein-powder"
     }
   ],
   "overview": "Eat the rainbow with this colorful fruit smoothie. It's a great way to start your day, while being easy and healthy!",
@@ -5613,7 +6621,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b8c"
+    "$oid": "62bc949f237b51e0a75f897e"
   },
   "name": "tropical-workout-shake",
   "original_youtube_link": "https://youtube.com/shorts/AqJO2Ff1i3w",
@@ -5626,22 +6634,28 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Tropical+Workout+Shake+.jpg",
   "ingredients": [
     {
-      "title": "pineapple",
-      "info": "1 cup frozen pineapple chunks",
+      "title": "frozen pineapple chunks",
+      "info": "1 cup",
       "imgUrl": "",
-      "ingredient_id": "pineapple"
+      "ingredient_id": "frozen-pineapple-chunks"
     },
     {
-      "title": "mango",
-      "info": "½ cup frozen mango",
+      "title": "frozen mango",
+      "info": "½ cup",
       "imgUrl": "",
-      "ingredient_id": "mango"
+      "ingredient_id": "frozen-mango"
     },
     {
-      "title": "coconut",
-      "info": "1 tablespoon coconut flakes",
+      "title": "lime juice",
+      "info": "2 tablespoons",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "lime-juice"
+    },
+    {
+      "title": "coconut flakes",
+      "info": "1 tablespoon",
+      "imgUrl": "",
+      "ingredient_id": "coconut-flakes"
     }
   ],
   "overview": "Plant-based and packed with protein, this tropical workout shake is perfect to replenish your body after you exercise.",
@@ -5702,7 +6716,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b8d"
+    "$oid": "62bc949f237b51e0a75f897f"
   },
   "name": "cinnamon-roll-shake",
   "original_youtube_link": "https://youtube.com/shorts/BKX1gqi18XA",
@@ -5715,14 +6729,20 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Cinnamon+Roll+shake+_Moment.jpg",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "1 frozen banana",
+      "title": "frozen banana",
+      "info": "1",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
+    },
+    {
+      "title": "cinnamon",
+      "info": "1 teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "cinnamon"
     },
     {
       "title": "coconut water",
-      "info": "1 cup coconut water",
+      "info": "1 cup",
       "imgUrl": "",
       "ingredient_id": "coconut-water"
     }
@@ -5784,7 +6804,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b8e"
+    "$oid": "62bc949f237b51e0a75f8980"
   },
   "name": "pb-&-j-smoothie",
   "original_youtube_link": "https://youtube.com/shorts/ph611cgngCQ",
@@ -5797,22 +6817,28 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=PB+_+J+smoothie_Moment.jpg",
   "ingredients": [
     {
-      "title": "coconut",
-      "info": "1 cup light coconut milk",
+      "title": "light coconut milk",
+      "info": "1 cup",
       "imgUrl": "",
-      "ingredient_id": "coconut"
+      "ingredient_id": "light-coconut-milk"
     },
     {
-      "title": "strawberries",
-      "info": "¼ cup frozen strawberries",
+      "title": "frozen strawberries",
+      "info": "¼ cup",
       "imgUrl": "",
-      "ingredient_id": "strawberries"
+      "ingredient_id": "frozen-strawberries"
     },
     {
       "title": "peanut butter",
-      "info": "1 tbsp peanut butter",
+      "info": "1 tbsp",
       "imgUrl": "",
       "ingredient_id": "peanut-butter"
+    },
+    {
+      "title": "vanilla whey protein powder",
+      "info": "1 scoop",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-whey-protein-powder"
     }
   ],
   "overview": "Here's a new, healthy, and delicious way to enjoy your favorite childhood sandwich!",
@@ -5872,7 +6898,7 @@
 }
 {
   "_id": {
-    "$oid": "62bb13749a2d15ae5b743b8f"
+    "$oid": "62bc949f237b51e0a75f8981"
   },
   "name": "lemon-sorbet-shake",
   "original_youtube_link": "https://youtube.com/shorts/rnWHfDMaQ54",
@@ -5883,10 +6909,28 @@
   "original_image_link": "https://www.dropbox.com/sh/2uxshjutwnx5gkb/AAAg5FJyS0O1dFhmEBnJv9Soa?dl=0&preview=Lemon+sorbet_Moment.jpg",
   "ingredients": [
     {
-      "title": "banana",
-      "info": "1 frozen banana",
+      "title": "frozen banana",
+      "info": "1",
       "imgUrl": "",
-      "ingredient_id": "banana"
+      "ingredient_id": "frozen-banana"
+    },
+    {
+      "title": "lemon juice",
+      "info": "1  and zest",
+      "imgUrl": "",
+      "ingredient_id": "lemon-juice"
+    },
+    {
+      "title": "vanilla extract",
+      "info": "¼ teaspoon",
+      "imgUrl": "",
+      "ingredient_id": "vanilla-extract"
+    },
+    {
+      "title": "turmeric",
+      "info": "1 dash",
+      "imgUrl": "",
+      "ingredient_id": "turmeric"
     }
   ],
   "overview": "This healthy lemon sorbet smoothie can be made in minutes and it's full of refreshing flavor!",
