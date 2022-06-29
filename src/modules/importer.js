@@ -3,7 +3,7 @@ const fs = require('fs');
 const args = process.argv.slice(2);
 const ObjectId = require('mongodb').ObjectId
 
-const names = require('./ingredients-data').default;
+const names = require('./ingredients-data').default.map(el => el.toLowerCase());
 const numberedFields = ['protein', 'carbs', 'fats'];
 const result = [];
 
@@ -11,13 +11,22 @@ const processIngredients = ingredients => {
   const result = [];
   
   ingredients
+    .toLowerCase()
     .split(', ')
     .forEach(el => {
         const namesLength = names.length;
         
         for (let i = 0; i < namesLength; i++) {
           if (el.includes(names[i])) {
-            result.push({title: names[i], info: el.trim(), imgUrl: '', ingredient_id: nornalizeName(names[i])});
+            result.push({
+              title: names[i],
+              info: el
+                .replace(names[i], '')
+                .replace(/ of |,/gi, '')
+                .replace(/ /g, ' ')
+                .trim(),
+              imgUrl: '',
+              ingredient_id: nornalizeName(names[i])});
             return;
           }
         }
@@ -69,7 +78,7 @@ const normalizeProperty = property => {
     value = value.split(',').map(el => el.trim());
     
     if (!value[0]) {
-      value = [];
+      value = ['https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg'];
     }
   }
   
