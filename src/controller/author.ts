@@ -10,10 +10,10 @@ export class AuthorController {
     async getAuthor(req: Request, res: Response): Promise<any> {
         const params: any = req.params;
         const author = await authorService.getAuthorByName(params.id)
-        const recipes = await recipeService.getRecipeisByAuthorId(params.id, { title: 1, _id: 0, name: 1 });
+        const recipes = await recipeService.getRecipeisByAuthorId(params.id, { title: 1, _id: 0, name: 1, images: 1 });
         const mappedRecipies = recipes.map(item => {
             // TODO imageUrl should be in the DB
-            return { title: item.title, imageUrl: 'https://storage.googleapis.com/smoothie_bucket/author/1.png', link: `/recipe/${item.name}` }
+            return { title: item.title, imageUrl: item.images[0], link: `/recipe/${item.name}` }
         });
 
         if (!author) {
