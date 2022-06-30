@@ -101,14 +101,14 @@
 {"_id":{"$oid":"6178e0ee93b3cbc919973b3f"},"ingredient_id":"cocoa powder","name":"cocoa powder","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0ee93b3cbca19973bdf"},"ingredient_id":"sprinkles","name":"sprinkles","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0ee93b3cba919973b3f"},"ingredient_id":"pea-protein-powder","name":"pea protein powder","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
-{"_id":{"$oid":"61a8e0ee93b3ca2c919973b3"},"ingredient_id":"frozen-banana-chunks","name":"frozen banana chunks","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
+{"_id":{"$oid":"61a8e0ee93b3ca2c919973b3"},"ingredient_id":"frozen-banana-chunks","name":"frozen banana chunks","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Banana.png"}
 {"_id":{"$oid":"61a8e0ee93b3cbca19973b3f"},"ingredient_id":"coconut-flakes","name":"coconut flakes","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0ee93b3c5a919973b3f"},"ingredient_id":"frozen-mixed-berries","name":"frozen mixed berries","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e02393b3cbc919973b3f"},"ingredient_id":"lime","name":"lime","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0ee93b3cb5919973b3f"},"ingredient_id":"coconut-milk","name":"coconut milk","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/CoconutMilk.png"}
 {"_id":{"$oid":"61a8e0ee93b3cb591b973b3f"},"ingredient_id":"light-coconut-milk","name":"light coconut milk","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/CoconutMilk.png"}
 {"_id":{"$oid":"61a8e0ee93b3cb1919973b3f"},"ingredient_id":"frozen-pineapple-chunks","name":"frozen pineapple chunks","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
-{"_id":{"$oid":"61a8e0ee91b3cb2919973b3f"},"ingredient_id":"turmeric","name":"turmeric","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
+{"_id":{"$oid":"61a8e0ee91b3cb2919973b3f"},"ingredient_id":"turmeric","name":"turmeric","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Turmeric.png"}
 {"_id":{"$oid":"61a811ee93b3cb1119973b3f"},"ingredient_id":"avocado","name":"avocado","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Avocado.png"}
 {"_id":{"$oid":"61a8e0ee93b3aa1119973b3f"},"ingredient_id":"frozen-mango","name":"frozen mango","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Mango.png"}
 {"_id":{"$oid":"61a8e0ee93b3cb1119973b3f"},"ingredient_id":"oat-protein-powder","name":"oat protein powder","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
@@ -116,7 +116,7 @@
 {"_id":{"$oid":"61a8e0ee93b3cb111997316f"},"ingredient_id":"matcha","name":"matcha","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0ee93b3c42490573b3f"},"ingredient_id":"peanut-butter-plant-based-protein","name":"peanut butter plant-based protein","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0ee93b3cb111997317f"},"ingredient_id":"chocolate-whey-powder","name":"chocolate whey powder","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
-{"_id":{"$oid":"61a8e0ee93b3cb111997183f"},"ingredient_id":"frozen-blackberries","name":"frozen blackberries","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
+{"_id":{"$oid":"61a8e0ee93b3cb111997183f"},"ingredient_id":"frozen-blackberries","name":"frozen blackberries","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/Blackberries.png"}
 {"_id":{"$oid":"61a8e0ee93b3cb111997311f"},"ingredient_id":"casein-protein-powder","name":"casein protein powder","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"4668969ab8b3cbc919973b3f"},"ingredient_id":"chocolate-rice-protein-powder","name":"chocolate rice protein powder","img":"https://storage.googleapis.com/smoothie_bucket/recipes/not-found.jpg"}
 {"_id":{"$oid":"61a8e0ee93b3cb111997312f"},"ingredient_id":"celery","name":"celery","img":"https://storage.googleapis.com/smoothie_bucket/ingredients/CeleryStalk.png"}
