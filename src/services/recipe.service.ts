@@ -11,6 +11,10 @@ export class RecipeService {
         return Recipe.find({ author_id }, projection).lean();
     }
 
+    async getRecipeisByReviewerId(reviewer_id: string, projection = {}) {
+        return Recipe.find({ reviewer_id }, projection).lean();
+    }
+
     async getRecipesByCategoryId(category_id: string, projection = {}) {
         return Recipe.find({ categories: { $elemMatch: { $eq: category_id } } }, projection).lean();
     }
