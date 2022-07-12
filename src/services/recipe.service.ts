@@ -27,6 +27,10 @@ export class RecipeService {
         return Recipe.find( { $text: { $search: text } } ).lean();
     }
 
+    async getRecipesByTextMatch(text: string) {
+        return Recipe.find( {title:  new RegExp(text, "gi") } ).lean();
+    }
+
     async getRecipesByKeyBenefit(b: string) {
         return Recipe.find({ key_benefit: b }).lean();
     }

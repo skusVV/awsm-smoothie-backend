@@ -66,4 +66,16 @@ export class SearchController {
             )
             .filter(Boolean);
     }
+
+    async searchSuggest(req: Request, res: Response) {
+        const query: any = req.query;
+        const textSearchResponse = await recipeService.getRecipesByTextMatch(query['q']);
+
+        return res.send(textSearchResponse.map(item => {
+            return {
+                name: item.name,
+                title: item.title
+            }
+        }));
+    }
 }
