@@ -62,7 +62,7 @@ export class CategoryController {
     private getIdsBySection(section: string): string[] {
         if (section === '1') {
             return [
-                'weight-gain-shakes',
+                'best-protein-powder-for-muscle-gain',
                 // 'best-protein-shakes-for-weight-loss',
                 'plant-based-protein-shake',
                 'best-casein-protein'

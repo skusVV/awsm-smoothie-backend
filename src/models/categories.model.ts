@@ -5,6 +5,13 @@ interface CategoryItem {
     description: string;
 }
 
+interface TodoItem {
+    id: number;
+    active: boolean;
+    title: string;
+    description: string;
+}
+
 interface CategoryAttrs {
     category_id: string;
     main_title: string;
@@ -15,6 +22,7 @@ interface CategoryAttrs {
     category_banner_description: string;
     category_banner_img: string;
     preview_img: string;
+    todos: TodoItem[];
 }
 
 interface CategoryDoc extends mongoose.Document{
@@ -27,6 +35,7 @@ interface CategoryDoc extends mongoose.Document{
     category_banner_description: string;
     category_banner_img: string;
     preview_img: string;
+    todos: TodoItem[];
 }
 
 interface CategoryModel extends mongoose.Model<CategoryDoc> {
@@ -54,7 +63,13 @@ const categorySchema = new mongoose.Schema<CategoryDoc>({
         title: String,
         description: String,
         keyword_group: String
-    }
+    },
+    todos: [{
+        title: String,
+        description: String,
+        id: Number,
+        active: Boolean
+    }],
 }, {
     toJSON: {
         transform(doc, ret) {
