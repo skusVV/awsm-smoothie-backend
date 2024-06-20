@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node dist/index.js",
+    "start": "node public/index.js",
     "build": "webpack",
     "dump": "npm run dump:recipes && npm run dump:labels && npm run dump:ingredients && npm run dump:categories && npm run dump:authors",
     "dump:recipes": "mongoexport --collection=recipes --db=smoothie --out=./dump/recipes.json",

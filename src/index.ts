@@ -1,16 +1,15 @@
 import express from 'express';
-import  'express-async-errors'
+import 'express-async-errors';
 import mongoose from 'mongoose';
 import { recipeRoutes } from './routes/recipi';
 import { subscribeRoutes } from './routes/subscribe';
 import { authorRoutes } from './routes/auhtor';
 import { categoryRoutes } from './routes/category';
 import { searchRoutes } from './routes/search';
-import { dynamicRoutes } from './routes/dynamic-routes'
+import { dynamicRoutes } from './routes/dynamic-routes';
 import * as bodyParser from 'body-parser';
 const cors = require('cors');
-import 'dotenv/config'
-
+import 'dotenv/config';
 
 const app = express();
 app.use(cors()); // TODO remove me
@@ -27,15 +26,15 @@ categoryRoutes(app);
 searchRoutes(app);
 dynamicRoutes(app);
 
-app.get('/', () => {
-    return 'root';
+app.get('/', (req, res) => {
+    return res.send('root');
 });
 
-app.get('/api', () => {
-    return 'api';
-})
+app.get('/api', (req, res) => {
+    return res.send('api');
+});
 
-const init = async() => {
+const init = async () => {
     try {
         await mongoose.connect(MONGO_URI);
         console.log('Connected');
@@ -43,9 +42,14 @@ const init = async() => {
         console.log(e);
     }
 
-    app.listen(PORT, () => {
-        console.log('Application started');
-    });
+    if (process.env.NODE_ENV !== 'production') {
+        app.listen(PORT, () => {
+            console.log('Application started');
+        });
+    }
 };
 
 init();
+
+// Export the app for serverless function use
+module.exports = app;

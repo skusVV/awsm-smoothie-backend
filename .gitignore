@@ -8,6 +8,8 @@
 /bazel-out
 
 .env
+api/
+public/
 
 # dependencies
 /node_modules

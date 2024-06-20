@@ -1,15 +1,12 @@
 {
-    "version": 2,
-    "builds": [
-      {
-        "src": "package.json",
-        "use": "@vercel/node"
-      }
-    ],
-    "routes": [
-        {
-            "src": "/api/(.*)",
-            "dest": "/dist/index.js"
-          }
-    ]
+  "version": 2,
+  "builds": [
+    { "src": "dist/index.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/dist/index.js" }
+  ],
+  "env": {
+    "MONGO_URI": "mongodb+srv://doadmin:Po34H5608mY7qbA2@db-mongodb-nyc3-02843-8331701d.mongo.ondigitalocean.com/smoothie?tls=true&authSource=admin"
   }
+}
