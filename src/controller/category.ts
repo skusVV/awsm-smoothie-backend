@@ -42,7 +42,7 @@ export class CategoryController {
             );
         }
 
-
+        console.log('categories', categories);
         if(!categories || !categories.length) {
             return res.status(404).send('Categories not found');
         }

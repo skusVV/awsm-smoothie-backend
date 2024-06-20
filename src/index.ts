@@ -9,11 +9,14 @@ import { searchRoutes } from './routes/search';
 import { dynamicRoutes } from './routes/dynamic-routes'
 import * as bodyParser from 'body-parser';
 const cors = require('cors');
+import 'dotenv/config'
+
 
 const app = express();
 app.use(cors()); // TODO remove me
 const PORT = process.env.PORT || 8000;
-const MONGO_URI = 'mongodb://localhost:27017/smoothie';
+
+const MONGO_URI = process.env.MONGO_URI!;
 
 app.use(bodyParser.json());
 
