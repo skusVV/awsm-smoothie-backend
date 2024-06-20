@@ -1,18 +1,18 @@
 import express from 'express';
 import  'express-async-errors'
 import mongoose from 'mongoose';
-import { recipeRoutes } from './src/routes/recipi';
-import { subscribeRoutes } from './src/routes/subscribe';
-import { authorRoutes } from './src/routes/auhtor';
-import { categoryRoutes } from './src/routes/category';
-import { searchRoutes } from './src/routes/search';
-import { dynamicRoutes } from './src/routes/dynamic-routes'
+import { recipeRoutes } from './routes/recipi';
+import { subscribeRoutes } from './routes/subscribe';
+import { authorRoutes } from './routes/auhtor';
+import { categoryRoutes } from './routes/category';
+import { searchRoutes } from './routes/search';
+import { dynamicRoutes } from './routes/dynamic-routes'
 import * as bodyParser from 'body-parser';
 const cors = require('cors');
 
 const app = express();
 app.use(cors()); // TODO remove me
-const PORT = 8000;
+const PORT = process.env.PORT || 8000;
 const MONGO_URI = 'mongodb://localhost:27017/smoothie';
 
 app.use(bodyParser.json());
