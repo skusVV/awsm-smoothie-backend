@@ -27,6 +27,14 @@ categoryRoutes(app);
 searchRoutes(app);
 dynamicRoutes(app);
 
+app.get('/', () => {
+    return 'root';
+});
+
+app.get('/api', () => {
+    return 'api';
+})
+
 const init = async() => {
     try {
         await mongoose.connect(MONGO_URI);

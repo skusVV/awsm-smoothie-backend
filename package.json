@@ -13,11 +13,11 @@
     "dump:categories": "mongoexport --collection=categories --db=smoothie --out=./dump/categories.json",
     "dump:authors": "mongoexport --collection=authors --db=smoothie --out=./dump/authors.json",
     "seed": "npm run seed:recipes && npm run seed:labels && npm run seed:ingredients && npm run seed:categories && npm run seed:authors",
-    "seed:recipes": "mongoimport --uri \"mongodb+srv://doadmin:Po34H5608mY7qbA2@db-mongodb-nyc3-02843-8331701d.mongo.ondigitalocean.com/smoothie?tls=true&authSource=admin\" --collection recipes --file ./dump/recipes.json --drop",
-    "seed:labels": "mongoimport --uri \"mongodb+srv://doadmin:Po34H5608mY7qbA2@db-mongodb-nyc3-02843-8331701d.mongo.ondigitalocean.com/smoothie?tls=true&authSource=admin\" --collection labels --file ./dump/labels.json --drop",
-    "seed:ingredients": "mongoimport --uri \"mongodb+srv://doadmin:Po34H5608mY7qbA2@db-mongodb-nyc3-02843-8331701d.mongo.ondigitalocean.com/smoothie?tls=true&authSource=admin\" --collection ingredients --file ./dump/ingredients.json --drop",
-    "seed:categories": "mongoimport --uri \"mongodb+srv://doadmin:Po34H5608mY7qbA2@db-mongodb-nyc3-02843-8331701d.mongo.ondigitalocean.com/smoothie?tls=true&authSource=admin\" --collection categories --file ./dump/categories.json --drop",
-    "seed:authors": "mongoimport --uri \"mongodb+srv://doadmin:Po34H5608mY7qbA2@db-mongodb-nyc3-02843-8331701d.mongo.ondigitalocean.com/smoothie?tls=true&authSource=admin\" --collection authors --file ./dump/authors.json --drop"
+    "seed:recipes": "mongoimport --db smoothie --collection recipes --file ./dump/recipes.json --drop",
+    "seed:labels": "mongoimport --db smoothie --collection labels --file ./dump/labels.json --drop",
+    "seed:ingredients": "mongoimport --db smoothie --collection ingredients --file ./dump/ingredients.json --drop",
+    "seed:categories": "mongoimport --db smoothie --collection categories --file ./dump/categories.json --drop",
+    "seed:authors": "mongoimport --db smoothie --collection authors --file ./dump/authors.json --drop"
   },
   "keywords": [],
   "author": "",
